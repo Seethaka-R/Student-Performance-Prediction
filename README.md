@@ -16,6 +16,10 @@
 |---|---|---|
 | ![dashboard](images/predictout1.png) | ![eda](outputs/grade_distribution.png) | ![model](outputs/model_comparison.png) |
 
+## Dashboard
+
+| ![Prediction](images/preout.png) | ![Data](images/data1.png) | ![data Explorer](images/data2.png) |
+
 ## 🧠 Problem Statement
 Educational institutions need early warning systems to identify at-risk students before they fail. This project builds a complete ML pipeline that:
 - Predicts final exam scores (regression)
