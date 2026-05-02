@@ -1,0 +1,1201 @@
+student_id,age,gender,school_type,parent_education,family_income,study_hours_per_day,attendance_percent,prev_gpa,assignments_completed,extracurricular_activities,internet_access,tutoring_sessions,absences,sleep_hours,final_score,grade,pass_fail
+STU0001,15,Male,Private,High School,Low,3.77,78.7,6.46,16,5,1,1,4,8.3,78.1,B,Pass
+STU0002,16,Female,Public,No Education,Middle,5.45,100.0,8.8,19,5,1,1,0,7.0,100.0,A,Pass
+STU0003,18,Male,Public,High School,Low,4.38,46.1,8.45,19,3,1,6,25,6.9,78.3,B,Pass
+STU0004,16,Male,Public,High School,Low,2.88,83.4,4.56,14,4,1,3,3,7.1,75.3,B,Pass
+STU0005,15,Male,Public,Graduate,Low,3.89,74.4,5.29,11,2,1,5,11,6.9,75.4,B,Pass
+STU0006,16,Female,Private,Graduate,Low,3.14,82.4,8.22,13,1,1,7,4,8.2,100.0,A,Pass
+STU0007,15,Male,Private,High School,High,3.51,65.2,3.0,15,4,1,3,9,6.3,52.3,D,Pass
+STU0008,16,Male,Public,High School,Low,3.01,72.8,6.23,8,2,1,2,4,7.5,66.7,C,Pass
+STU0009,15,Male,Public,Postgraduate,High,3.25,84.9,3.92,18,3,0,1,0,5.6,81.5,B,Pass
+STU0010,15,Female,Private,Graduate,High,3.82,100.0,5.64,15,5,0,3,4,7.9,97.3,A,Pass
+STU0011,15,Male,Public,Graduate,Middle,2.01,82.7,5.96,14,3,1,1,0,6.6,83.8,B,Pass
+STU0012,18,Male,Public,High School,Low,1.98,57.7,5.86,17,2,0,0,15,7.0,52.6,D,Pass
+STU0013,16,Male,Public,Graduate,Middle,1.42,62.4,5.51,10,3,1,3,12,6.6,50.2,D,Pass
+STU0014,16,Male,Private,No Education,Middle,1.1,61.0,4.53,13,2,0,2,15,6.7,39.3,F,Fail
+STU0015,16,Female,Private,Graduate,Middle,1.67,42.6,10.0,12,2,1,6,14,5.8,86.4,B,Pass
+STU0016,15,Male,Public,Postgraduate,Low,3.74,70.8,9.86,14,3,1,3,14,7.4,100.0,A,Pass
+STU0017,16,Female,Public,High School,Middle,2.16,82.0,4.41,11,0,1,1,5,7.7,57.2,D,Pass
+STU0018,16,Female,Private,No Education,High,4.27,58.2,9.35,20,1,1,4,25,5.4,100.0,A,Pass
+STU0019,15,Female,Private,No Education,Middle,3.55,90.9,5.78,13,4,1,4,0,6.3,95.5,A,Pass
+STU0020,17,Male,Public,High School,Low,0.55,73.5,6.73,13,5,1,6,20,7.0,67.4,C,Pass
+STU0021,15,Female,Private,High School,Middle,4.48,66.9,6.39,10,1,0,6,9,6.3,76.8,B,Pass
+STU0022,16,Male,Public,No Education,Low,4.72,76.5,5.31,19,4,1,5,8,6.7,89.7,B,Pass
+STU0023,15,Female,Public,Graduate,Low,2.01,94.5,8.27,16,4,1,6,0,8.9,100.0,A,Pass
+STU0024,17,Female,Private,Graduate,High,4.13,87.9,6.73,16,5,0,1,0,5.8,100.0,A,Pass
+STU0025,15,Female,Public,High School,Low,2.22,71.3,5.64,12,1,1,7,6,4.2,72.4,C,Pass
+STU0026,16,Female,Public,Postgraduate,Low,3.65,71.9,4.15,16,5,0,0,7,6.3,59.8,D,Pass
+STU0027,17,Female,Public,High School,Low,1.6,70.5,4.89,19,2,1,3,10,6.6,72.4,C,Pass
+STU0028,18,Female,Public,Postgraduate,High,0.81,59.3,3.55,6,5,1,6,18,6.4,30.7,F,Fail
+STU0029,16,Female,Private,High School,Middle,2.93,41.7,6.52,16,3,1,4,18,7.3,62.9,C,Pass
+STU0030,17,Female,Public,Postgraduate,Middle,3.31,99.4,4.35,12,0,0,0,1,5.8,72.6,C,Pass
+STU0031,17,Male,Private,Graduate,Middle,2.9,75.5,6.02,14,0,1,7,9,5.6,91.1,A,Pass
+STU0032,18,Male,Public,Graduate,Low,1.72,75.6,8.97,12,0,1,1,0,6.2,100.0,A,Pass
+STU0033,15,Female,Public,Postgraduate,Middle,2.9,72.3,8.66,12,1,1,0,0,6.2,100.0,A,Pass
+STU0034,15,Female,Public,High School,Middle,3.9,65.2,6.44,15,1,1,1,3,9.5,86.1,B,Pass
+STU0035,16,Female,Private,Postgraduate,Low,3.43,72.0,6.34,11,2,1,7,7,8.9,86.8,B,Pass
+STU0036,18,Male,Public,High School,Middle,3.77,51.8,9.88,18,0,0,7,5,5.0,93.4,A,Pass
+STU0037,15,Female,Private,High School,High,2.49,97.0,7.44,8,2,1,5,0,4.7,92.7,A,Pass
+STU0038,18,Male,Public,High School,Low,5.26,61.8,5.91,18,0,0,3,5,6.9,88.3,B,Pass
+STU0039,15,Male,Private,Graduate,Low,1.74,54.2,3.93,11,1,0,0,16,9.3,24.8,F,Fail
+STU0040,17,Male,Public,High School,Low,4.23,70.6,7.21,12,3,1,7,11,7.8,91.9,A,Pass
+STU0041,15,Male,Private,Graduate,Low,5.27,99.6,7.99,17,3,0,3,0,7.0,100.0,A,Pass
+STU0042,18,Male,Private,Graduate,High,4.22,77.4,5.36,11,3,1,0,0,6.5,87.4,B,Pass
+STU0043,17,Female,Private,Graduate,Middle,3.2,55.5,7.02,14,5,1,1,12,8.3,67.8,C,Pass
+STU0044,17,Female,Private,Graduate,Middle,2.71,91.4,5.85,9,3,1,7,4,7.2,93.7,A,Pass
+STU0045,17,Female,Private,High School,Middle,5.05,90.6,6.17,18,4,1,1,7,9.1,100.0,A,Pass
+STU0046,18,Female,Public,High School,Low,1.37,76.7,3.0,9,0,1,0,16,5.0,12.9,F,Fail
+STU0047,16,Female,Public,High School,Middle,2.04,81.4,6.1,11,3,1,5,11,7.5,74.0,C,Pass
+STU0048,16,Male,Public,High School,Middle,2.9,98.2,8.24,15,4,1,1,1,6.3,100.0,A,Pass
+STU0049,16,Female,Private,No Education,Middle,5.36,100.0,5.36,14,4,1,2,0,7.5,100.0,A,Pass
+STU0050,18,Female,Public,High School,High,4.07,66.4,6.59,15,4,1,2,6,7.3,80.2,B,Pass
+STU0051,17,Male,Private,High School,Middle,2.05,95.0,5.14,8,2,1,3,8,7.6,67.9,C,Pass
+STU0052,16,Female,Public,Postgraduate,Middle,3.03,79.4,7.15,16,2,1,6,7,8.2,100.0,A,Pass
+STU0053,18,Male,Public,Graduate,High,2.58,79.7,6.11,19,4,1,2,9,8.7,100.0,A,Pass
+STU0054,16,Female,Public,High School,Low,2.44,46.4,4.81,20,5,1,2,13,9.3,51.0,D,Pass
+STU0055,15,Male,Private,Graduate,Low,4.97,76.8,8.9,17,3,0,5,1,7.0,100.0,A,Pass
+STU0056,16,Female,Public,High School,Low,1.44,56.6,8.17,14,0,0,5,11,6.3,72.4,C,Pass
+STU0057,16,Female,Public,High School,Middle,5.91,94.7,5.41,12,5,0,6,0,5.5,100.0,A,Pass
+STU0058,17,Male,Public,Graduate,Middle,4.74,94.8,7.4,20,1,0,4,3,7.5,100.0,A,Pass
+STU0059,18,Male,Public,Graduate,Middle,5.14,48.8,7.47,19,2,0,6,12,8.0,98.4,A,Pass
+STU0060,17,Male,Public,High School,High,2.81,72.6,7.66,12,3,1,4,8,5.4,90.0,A,Pass
+STU0061,17,Male,Public,Postgraduate,Middle,3.28,91.2,3.45,18,3,1,5,9,8.4,82.9,B,Pass
+STU0062,17,Male,Private,Postgraduate,Middle,1.35,65.8,8.31,11,1,1,4,2,6.9,95.9,A,Pass
+STU0063,17,Male,Public,Graduate,Low,2.71,83.6,5.47,12,1,0,5,0,5.5,77.2,B,Pass
+STU0064,17,Male,Public,Graduate,Low,4.24,82.5,5.86,17,3,1,4,11,6.0,85.8,B,Pass
+STU0065,16,Male,Public,Graduate,Middle,5.44,86.0,10.0,14,1,1,1,0,5.9,100.0,A,Pass
+STU0066,17,Female,Public,High School,Middle,1.84,65.9,7.04,16,3,1,5,8,5.9,96.9,A,Pass
+STU0067,17,Female,Public,High School,High,2.95,55.1,5.8,11,5,1,6,17,7.7,74.0,C,Pass
+STU0068,18,Male,Public,No Education,Low,3.27,57.5,3.0,11,1,1,3,12,8.0,37.0,F,Fail
+STU0069,15,Female,Public,Graduate,Low,1.41,79.4,9.0,9,5,1,3,6,9.0,95.2,A,Pass
+STU0070,16,Female,Public,Graduate,Middle,4.39,78.0,4.08,18,5,1,5,7,6.2,84.9,B,Pass
+STU0071,16,Female,Private,High School,Low,2.41,69.7,4.69,11,1,0,2,22,7.4,36.4,F,Fail
+STU0072,16,Female,Private,Postgraduate,Low,3.21,67.8,5.9,10,3,1,7,19,6.2,65.1,C,Pass
+STU0073,17,Male,Private,Postgraduate,Middle,2.82,68.4,9.05,12,4,0,3,6,7.0,100.0,A,Pass
+STU0074,17,Female,Public,Graduate,Low,2.32,87.2,7.89,13,3,1,6,9,5.2,100.0,A,Pass
+STU0075,17,Male,Public,Graduate,Middle,3.49,69.9,6.22,11,0,1,2,12,5.7,83.4,B,Pass
+STU0076,18,Female,Public,Postgraduate,Low,3.18,53.9,7.05,11,1,1,3,14,8.0,70.5,C,Pass
+STU0077,15,Female,Public,High School,Low,2.94,84.5,5.42,20,2,0,7,0,5.2,100.0,A,Pass
+STU0078,17,Female,Private,Graduate,Middle,2.41,68.6,6.75,11,1,0,0,12,7.7,63.9,C,Pass
+STU0079,15,Male,Public,High School,High,3.98,76.9,6.63,14,0,0,0,5,6.2,84.5,B,Pass
+STU0080,18,Female,Public,Graduate,Middle,5.98,100.0,8.24,16,5,0,5,0,4.7,100.0,A,Pass
+STU0081,16,Male,Public,High School,Middle,3.71,75.3,8.24,13,2,0,7,4,4.0,100.0,A,Pass
+STU0082,17,Female,Private,Postgraduate,Low,4.99,83.8,7.39,18,2,0,6,10,8.8,100.0,A,Pass
+STU0083,15,Male,Public,Postgraduate,Middle,1.41,51.1,5.85,15,3,0,6,11,4.7,63.7,C,Pass
+STU0084,15,Female,Public,High School,Low,3.74,72.4,7.84,14,4,1,3,4,6.9,86.0,B,Pass
+STU0085,17,Male,Public,Graduate,Middle,1.85,79.2,6.33,9,3,1,1,10,7.4,62.9,C,Pass
+STU0086,16,Male,Public,Postgraduate,Middle,1.28,45.0,4.55,16,2,0,2,16,5.4,40.8,F,Fail
+STU0087,16,Female,Public,Graduate,High,2.39,74.7,5.77,13,2,1,7,7,6.3,81.9,B,Pass
+STU0088,16,Male,Public,Postgraduate,Middle,5.29,81.9,6.65,20,4,1,3,11,7.6,100.0,A,Pass
+STU0089,18,Female,Public,Graduate,Low,4.93,79.9,8.14,9,1,1,5,13,7.4,87.5,B,Pass
+STU0090,15,Female,Public,High School,Low,3.86,91.7,6.17,16,4,1,7,0,6.4,100.0,A,Pass
+STU0091,15,Female,Public,High School,High,1.2,73.1,4.32,17,5,1,2,7,7.3,70.3,C,Pass
+STU0092,15,Female,Public,High School,Middle,3.21,96.3,6.6,13,3,1,4,0,6.9,93.4,A,Pass
+STU0093,18,Female,Public,Graduate,Middle,3.95,61.5,6.7,14,1,1,5,10,5.8,93.5,A,Pass
+STU0094,15,Female,Private,High School,Low,3.76,77.8,6.83,16,3,1,3,7,8.4,99.3,A,Pass
+STU0095,18,Female,Private,Graduate,Middle,0.73,68.0,8.16,10,4,1,1,8,7.2,84.9,B,Pass
+STU0096,16,Female,Public,Graduate,Low,2.16,55.0,8.33,12,1,1,7,8,4.8,94.3,A,Pass
+STU0097,17,Female,Public,Graduate,High,3.4,89.1,5.43,13,4,1,4,0,7.6,100.0,A,Pass
+STU0098,15,Female,Public,Postgraduate,Middle,4.3,100.0,5.39,14,5,1,5,4,6.3,100.0,A,Pass
+STU0099,15,Female,Public,Postgraduate,High,0.5,65.7,4.63,15,0,1,3,18,6.7,48.4,D,Pass
+STU0100,16,Male,Private,High School,Low,3.26,81.8,7.76,16,2,1,0,0,7.0,100.0,A,Pass
+STU0101,17,Male,Public,Graduate,Middle,3.71,76.9,9.11,16,1,0,6,5,6.0,100.0,A,Pass
+STU0102,18,Female,Private,Graduate,Middle,4.77,68.1,5.93,18,2,1,3,13,9.2,93.0,A,Pass
+STU0103,17,Female,Public,Graduate,Middle,4.54,50.8,6.07,15,0,0,0,15,5.2,71.2,C,Pass
+STU0104,16,Female,Public,Postgraduate,High,4.37,67.0,9.14,13,1,1,0,4,7.1,100.0,A,Pass
+STU0105,16,Female,Private,High School,High,2.3,50.5,7.41,11,2,1,5,12,7.5,73.4,C,Pass
+STU0106,17,Female,Private,High School,High,0.64,91.4,7.29,11,2,0,3,4,7.0,78.3,B,Pass
+STU0107,18,Female,Private,Postgraduate,Middle,2.91,71.5,4.36,11,1,1,6,7,6.8,72.6,C,Pass
+STU0108,18,Female,Private,High School,Low,5.0,74.3,7.72,15,2,0,3,7,6.5,99.9,A,Pass
+STU0109,15,Female,Public,Graduate,Low,5.59,94.6,4.83,15,2,1,0,2,6.0,100.0,A,Pass
+STU0110,18,Male,Private,Postgraduate,High,4.57,61.4,4.46,20,1,0,2,9,6.0,82.4,B,Pass
+STU0111,17,Female,Public,No Education,Low,4.14,65.4,5.88,7,2,1,4,14,8.4,60.9,C,Pass
+STU0112,16,Male,Private,Postgraduate,Middle,4.07,77.7,5.45,15,2,1,1,4,6.5,88.2,B,Pass
+STU0113,15,Female,Public,High School,Middle,2.67,87.9,6.1,19,3,1,3,0,9.6,100.0,A,Pass
+STU0114,15,Female,Private,Graduate,Middle,3.3,81.9,3.91,15,5,1,4,17,7.8,61.7,C,Pass
+STU0115,16,Male,Public,Graduate,High,6.0,86.2,8.23,20,3,0,4,4,4.0,100.0,A,Pass
+STU0116,18,Female,Public,Postgraduate,Middle,2.09,71.9,8.53,13,0,1,7,0,8.1,100.0,A,Pass
+STU0117,16,Male,Public,No Education,Middle,5.92,88.3,3.0,15,3,0,2,10,6.9,80.3,B,Pass
+STU0118,18,Female,Private,Graduate,Low,3.02,76.6,8.26,7,3,0,4,13,5.3,73.5,C,Pass
+STU0119,16,Female,Public,Graduate,Middle,5.49,65.5,5.04,18,0,0,3,13,8.6,77.7,B,Pass
+STU0120,17,Male,Public,Graduate,Low,1.39,69.4,8.04,10,2,1,5,12,6.5,86.6,B,Pass
+STU0121,18,Female,Public,Graduate,Middle,4.38,61.5,6.38,13,2,1,5,22,6.4,73.7,C,Pass
+STU0122,17,Male,Public,High School,High,2.39,72.9,6.55,12,3,0,7,3,7.5,93.5,A,Pass
+STU0123,15,Female,Private,High School,High,1.38,61.4,6.17,17,0,0,4,12,8.4,62.8,C,Pass
+STU0124,16,Male,Public,High School,Low,3.83,100.0,8.68,20,2,0,3,10,7.1,100.0,A,Pass
+STU0125,15,Male,Private,Graduate,Middle,5.01,78.9,4.27,17,4,1,3,17,7.1,85.3,B,Pass
+STU0126,15,Female,Public,High School,High,2.23,50.1,7.59,12,1,1,0,13,6.2,63.2,C,Pass
+STU0127,15,Female,Public,High School,Low,1.25,66.2,8.48,8,1,0,2,20,8.4,51.8,D,Pass
+STU0128,15,Male,Private,Postgraduate,Low,3.36,82.4,7.79,16,5,1,6,9,7.1,100.0,A,Pass
+STU0129,16,Female,Private,No Education,Low,3.37,99.6,10.0,20,1,1,1,8,6.7,100.0,A,Pass
+STU0130,15,Female,Public,Postgraduate,Middle,4.32,68.6,5.55,15,3,1,6,13,6.6,84.4,B,Pass
+STU0131,16,Female,Public,Graduate,Low,4.92,55.5,8.22,9,1,1,7,15,8.2,99.4,A,Pass
+STU0132,16,Male,Private,Graduate,High,3.41,87.0,6.31,16,1,1,0,15,6.7,82.7,B,Pass
+STU0133,17,Male,Public,High School,Middle,6.28,62.6,8.72,20,4,1,1,9,8.2,100.0,A,Pass
+STU0134,18,Male,Private,No Education,Middle,3.84,69.5,6.49,10,2,1,6,19,6.4,73.1,C,Pass
+STU0135,18,Male,Private,Graduate,Low,2.98,69.6,5.8,14,4,1,3,19,7.9,65.9,C,Pass
+STU0136,16,Male,Private,Graduate,Middle,1.08,66.7,8.85,13,3,1,5,17,7.2,90.8,A,Pass
+STU0137,17,Male,Public,Graduate,Middle,3.11,84.2,5.62,14,1,1,0,4,5.9,89.4,B,Pass
+STU0138,16,Male,Private,High School,Middle,3.0,63.2,3.96,12,2,0,6,12,6.9,46.1,D,Pass
+STU0139,16,Male,Public,Graduate,Middle,4.94,75.2,5.57,19,5,0,7,1,4.4,100.0,A,Pass
+STU0140,16,Male,Public,Graduate,Middle,4.19,76.9,7.61,14,5,1,4,5,6.1,100.0,A,Pass
+STU0141,17,Female,Public,Graduate,High,1.73,71.9,9.01,8,1,1,7,12,5.1,84.1,B,Pass
+STU0142,18,Male,Public,Graduate,High,3.76,77.2,6.7,9,1,1,7,0,9.4,96.4,A,Pass
+STU0143,17,Female,Private,Graduate,Middle,4.51,84.6,8.87,19,5,1,7,3,5.1,100.0,A,Pass
+STU0144,15,Female,Private,Graduate,Low,5.79,94.5,4.06,19,5,1,4,11,10.0,98.0,A,Pass
+STU0145,17,Female,Private,No Education,Low,4.83,84.9,5.7,16,3,0,1,4,7.6,61.8,C,Pass
+STU0146,17,Male,Public,Graduate,Low,4.64,85.2,5.98,15,1,1,3,10,6.4,85.3,B,Pass
+STU0147,17,Male,Public,No Education,Middle,3.59,51.5,6.29,13,5,1,5,17,8.0,55.1,D,Pass
+STU0148,17,Male,Public,High School,Middle,4.08,77.5,6.65,12,0,0,1,5,6.2,88.3,B,Pass
+STU0149,18,Male,Private,High School,Middle,5.37,87.8,7.74,15,5,0,6,3,5.3,100.0,A,Pass
+STU0150,15,Female,Public,No Education,High,1.5,79.9,5.7,6,2,0,6,7,7.1,59.8,D,Pass
+STU0151,18,Male,Private,High School,High,2.98,63.0,6.75,12,2,1,5,1,7.8,92.4,A,Pass
+STU0152,18,Male,Public,High School,High,2.34,61.6,6.42,12,0,1,6,16,8.5,73.3,C,Pass
+STU0153,17,Male,Public,Graduate,Middle,4.07,68.1,4.83,17,3,1,2,9,7.6,73.4,C,Pass
+STU0154,16,Male,Private,Postgraduate,Middle,5.35,88.6,6.3,17,1,1,5,8,6.4,100.0,A,Pass
+STU0155,16,Male,Public,No Education,Low,2.6,87.8,6.24,16,1,0,4,6,8.7,83.3,B,Pass
+STU0156,18,Female,Private,Postgraduate,Low,0.5,59.9,6.2,15,5,1,6,11,8.4,75.0,B,Pass
+STU0157,18,Male,Private,Graduate,Low,2.88,86.8,6.56,17,2,1,6,5,7.3,100.0,A,Pass
+STU0158,17,Female,Public,High School,Middle,4.87,81.0,6.64,18,3,1,0,7,8.5,100.0,A,Pass
+STU0159,18,Male,Public,No Education,Middle,4.31,75.6,5.72,16,3,1,0,15,9.6,74.2,C,Pass
+STU0160,17,Female,Public,Graduate,High,4.14,73.8,8.79,12,3,1,0,8,6.3,100.0,A,Pass
+STU0161,16,Male,Private,Graduate,Low,3.08,84.9,4.39,16,5,1,5,6,5.9,81.0,B,Pass
+STU0162,16,Male,Public,Graduate,Middle,1.58,74.1,5.2,17,1,1,4,1,6.3,85.3,B,Pass
+STU0163,15,Female,Public,No Education,Middle,4.27,100.0,10.0,16,3,1,5,0,5.4,100.0,A,Pass
+STU0164,16,Female,Public,No Education,Low,2.25,58.5,4.63,19,5,1,7,20,7.7,54.3,D,Pass
+STU0165,18,Female,Private,High School,Middle,6.78,92.6,4.06,14,5,0,3,4,5.1,95.8,A,Pass
+STU0166,16,Male,Public,High School,Low,4.36,69.6,7.82,12,0,1,4,4,8.5,100.0,A,Pass
+STU0167,17,Female,Private,High School,Middle,2.63,59.3,3.0,16,4,1,4,7,6.2,62.2,C,Pass
+STU0168,16,Male,Private,High School,Middle,2.58,72.1,6.08,14,3,1,7,5,8.6,78.8,B,Pass
+STU0169,15,Male,Public,Graduate,Low,3.36,76.6,10.0,18,4,1,5,12,4.0,100.0,A,Pass
+STU0170,16,Female,Public,Postgraduate,Low,3.14,98.9,3.72,14,1,1,5,5,6.5,78.7,B,Pass
+STU0171,17,Female,Private,High School,Middle,5.18,77.3,3.0,14,5,0,0,0,5.4,64.6,C,Pass
+STU0172,17,Male,Public,Postgraduate,High,3.78,58.9,3.8,14,3,1,4,12,8.6,71.4,C,Pass
+STU0173,18,Male,Private,High School,Middle,2.4,75.8,8.12,9,2,1,0,8,9.0,68.8,C,Pass
+STU0174,16,Female,Public,Graduate,Middle,6.34,52.4,8.52,15,1,1,3,9,4.2,100.0,A,Pass
+STU0175,17,Female,Public,High School,Middle,3.57,73.8,5.58,18,0,0,2,6,8.0,82.4,B,Pass
+STU0176,15,Female,Private,Graduate,High,4.65,78.7,7.73,19,0,0,0,13,8.3,94.5,A,Pass
+STU0177,18,Male,Public,Postgraduate,High,2.59,84.2,9.0,14,4,0,5,7,7.4,100.0,A,Pass
+STU0178,15,Male,Public,Graduate,Middle,4.04,91.2,9.72,10,5,1,6,0,7.7,100.0,A,Pass
+STU0179,16,Male,Public,High School,Middle,3.97,68.8,6.06,14,4,1,1,8,7.6,91.7,A,Pass
+STU0180,16,Male,Public,Graduate,High,0.67,64.2,3.0,7,2,1,2,10,8.0,35.0,F,Fail
+STU0181,16,Male,Public,High School,Middle,6.52,72.6,5.02,20,2,1,3,10,5.7,99.2,A,Pass
+STU0182,18,Male,Public,Postgraduate,Middle,5.44,63.9,5.73,15,0,1,6,4,8.4,100.0,A,Pass
+STU0183,17,Female,Private,Graduate,Low,2.9,77.9,6.03,11,3,1,5,3,7.3,88.5,B,Pass
+STU0184,18,Male,Public,High School,High,1.85,50.9,6.16,13,0,1,2,20,7.2,53.1,D,Pass
+STU0185,15,Male,Private,Graduate,High,4.02,70.3,8.51,13,0,1,7,9,7.7,100.0,A,Pass
+STU0186,18,Male,Public,Graduate,Low,3.63,60.5,8.79,19,2,1,5,8,5.5,100.0,A,Pass
+STU0187,15,Female,Private,No Education,Middle,4.03,84.8,6.19,13,4,1,0,1,5.1,84.3,B,Pass
+STU0188,18,Male,Public,Graduate,Middle,3.79,100.0,8.48,11,2,1,6,4,6.9,100.0,A,Pass
+STU0189,17,Male,Private,High School,Low,4.26,57.8,7.14,9,5,1,5,10,8.9,82.4,B,Pass
+STU0190,15,Female,Public,Graduate,High,5.67,53.7,6.62,17,2,1,6,16,5.6,99.8,A,Pass
+STU0191,16,Male,Public,Graduate,Low,4.35,75.7,8.13,14,2,0,3,4,7.2,100.0,A,Pass
+STU0192,16,Male,Public,Graduate,Low,1.93,70.5,6.63,8,0,0,1,3,6.1,69.9,C,Pass
+STU0193,18,Male,Public,Graduate,Middle,5.54,84.4,10.0,20,3,0,0,6,6.0,100.0,A,Pass
+STU0194,16,Male,Public,Graduate,Middle,5.96,75.7,3.91,19,0,1,0,7,7.6,91.4,A,Pass
+STU0195,15,Male,Public,High School,Low,8.23,86.2,5.57,20,1,0,6,8,7.9,100.0,A,Pass
+STU0196,16,Female,Private,Graduate,Middle,1.81,75.5,6.27,17,2,0,3,12,6.1,79.4,B,Pass
+STU0197,17,Female,Public,High School,Middle,3.86,91.7,7.29,17,2,1,3,1,8.7,100.0,A,Pass
+STU0198,17,Female,Public,Graduate,Low,0.5,40.0,8.78,8,1,1,2,20,7.5,44.3,F,Fail
+STU0199,18,Male,Public,High School,Low,4.33,72.0,6.46,12,2,1,1,6,6.7,81.1,B,Pass
+STU0200,15,Male,Private,High School,Middle,2.68,75.7,3.94,16,2,1,5,10,7.4,68.3,C,Pass
+STU0201,17,Male,Public,Graduate,Low,6.39,69.9,8.02,19,5,0,2,10,9.4,100.0,A,Pass
+STU0202,17,Female,Public,No Education,High,2.34,96.5,7.86,14,2,0,5,0,7.9,95.6,A,Pass
+STU0203,15,Male,Public,Graduate,High,0.97,57.9,3.0,9,1,1,5,9,6.2,30.8,F,Fail
+STU0204,16,Male,Private,High School,High,2.79,72.3,6.49,15,0,1,5,10,7.0,80.9,B,Pass
+STU0205,16,Female,Private,No Education,Low,0.54,74.5,3.64,9,2,1,2,13,7.2,13.1,F,Fail
+STU0206,18,Male,Public,Graduate,High,4.63,69.5,5.3,16,3,0,0,14,7.8,65.9,C,Pass
+STU0207,16,Female,Private,No Education,Middle,0.5,40.0,4.87,15,1,1,3,13,7.3,42.8,F,Fail
+STU0208,15,Female,Private,High School,Middle,3.54,68.7,7.96,13,4,1,0,5,9.3,93.8,A,Pass
+STU0209,17,Female,Public,Graduate,Low,0.5,81.4,6.71,6,5,0,1,2,6.7,50.6,D,Pass
+STU0210,16,Male,Private,No Education,Low,3.02,68.5,4.19,11,1,0,2,6,4.9,42.9,F,Fail
+STU0211,18,Male,Public,Graduate,Middle,5.97,69.7,8.08,20,0,1,7,0,7.3,100.0,A,Pass
+STU0212,16,Male,Public,No Education,Middle,4.04,90.5,3.92,16,1,1,1,7,6.5,79.4,B,Pass
+STU0213,15,Male,Public,High School,Low,2.2,66.2,7.09,13,4,1,3,8,5.2,74.1,C,Pass
+STU0214,18,Male,Public,Graduate,Middle,3.45,67.2,5.03,13,5,1,3,12,6.2,74.3,C,Pass
+STU0215,16,Male,Public,High School,Low,3.53,77.3,5.84,16,3,1,4,5,6.6,83.9,B,Pass
+STU0216,18,Male,Private,High School,Middle,4.21,88.7,7.41,13,4,1,1,3,8.4,100.0,A,Pass
+STU0217,15,Female,Public,High School,Middle,1.45,93.8,7.44,13,1,1,7,0,5.2,93.8,A,Pass
+STU0218,17,Male,Public,High School,High,4.39,90.1,8.91,13,4,1,0,3,7.4,100.0,A,Pass
+STU0219,15,Female,Public,Graduate,High,0.5,83.4,6.35,8,1,0,6,1,9.7,76.9,B,Pass
+STU0220,15,Male,Private,High School,Middle,2.56,64.6,7.05,11,3,1,7,11,6.8,70.0,C,Pass
+STU0221,15,Male,Public,Graduate,Middle,2.77,57.4,5.71,12,3,1,1,20,6.8,53.0,D,Pass
+STU0222,15,Male,Public,Postgraduate,Middle,4.45,78.8,6.83,15,0,0,2,9,7.9,99.9,A,Pass
+STU0223,17,Female,Public,High School,High,3.53,76.7,7.29,15,3,1,3,8,7.6,100.0,A,Pass
+STU0224,17,Female,Public,Postgraduate,Middle,1.39,52.5,6.32,1,2,1,3,8,8.7,61.4,C,Pass
+STU0225,18,Female,Private,High School,Low,2.02,67.9,3.25,10,4,1,1,12,6.8,34.1,F,Fail
+STU0226,16,Female,Private,Postgraduate,Low,3.8,81.9,7.1,14,4,1,7,9,7.8,100.0,A,Pass
+STU0227,17,Male,Public,No Education,Middle,3.38,80.1,7.16,19,1,1,1,7,7.9,85.3,B,Pass
+STU0228,17,Female,Private,Graduate,Middle,2.63,80.0,5.28,10,3,0,5,7,6.6,72.2,C,Pass
+STU0229,16,Male,Public,Graduate,High,2.78,77.2,4.19,14,0,1,1,6,6.9,71.3,C,Pass
+STU0230,17,Male,Private,High School,Low,4.54,70.5,9.16,20,0,1,5,12,7.0,100.0,A,Pass
+STU0231,15,Female,Public,Graduate,Middle,2.72,65.0,7.38,10,0,0,7,17,5.5,70.9,C,Pass
+STU0232,15,Female,Public,Graduate,High,3.37,56.6,6.09,16,5,0,2,15,6.5,68.4,C,Pass
+STU0233,16,Female,Public,No Education,High,6.75,100.0,4.45,16,2,1,2,0,8.8,100.0,A,Pass
+STU0234,18,Female,Private,High School,Middle,1.36,68.8,5.02,10,3,1,0,5,8.2,55.5,D,Pass
+STU0235,18,Female,Public,Graduate,Middle,0.72,63.3,8.84,9,0,1,1,15,6.3,59.8,D,Pass
+STU0236,16,Female,Public,Graduate,Middle,4.68,64.6,6.75,14,2,0,7,6,7.0,100.0,A,Pass
+STU0237,16,Female,Public,Postgraduate,High,2.48,96.9,5.51,20,4,0,7,2,8.2,100.0,A,Pass
+STU0238,15,Female,Private,Graduate,Low,3.02,57.5,7.42,16,1,1,0,11,7.5,76.4,B,Pass
+STU0239,18,Male,Public,Postgraduate,High,2.33,65.1,5.03,16,3,0,6,5,8.0,79.7,B,Pass
+STU0240,17,Female,Private,Graduate,Middle,3.11,80.1,9.2,16,3,1,7,10,7.6,100.0,A,Pass
+STU0241,15,Female,Private,High School,Middle,5.9,91.2,8.94,13,5,1,4,6,7.3,100.0,A,Pass
+STU0242,16,Male,Public,High School,Low,4.7,93.0,5.66,17,4,0,2,0,6.8,91.7,A,Pass
+STU0243,18,Female,Private,Graduate,Middle,4.79,100.0,5.37,19,3,0,3,2,5.6,100.0,A,Pass
+STU0244,17,Male,Public,Graduate,Middle,1.38,76.2,3.0,9,5,1,5,9,7.8,39.1,F,Fail
+STU0245,17,Male,Private,No Education,Low,1.77,54.0,3.83,15,5,0,4,18,6.7,29.7,F,Fail
+STU0246,15,Female,Public,High School,Middle,0.5,62.1,4.09,13,5,1,3,12,5.0,39.2,F,Fail
+STU0247,18,Male,Private,Postgraduate,High,2.29,76.0,6.74,19,3,1,4,14,6.3,94.8,A,Pass
+STU0248,18,Male,Private,Graduate,Middle,4.94,100.0,5.91,15,3,0,0,0,8.0,100.0,A,Pass
+STU0249,16,Male,Private,High School,Middle,4.28,56.4,4.08,12,3,1,0,12,4.7,31.4,F,Fail
+STU0250,18,Male,Private,Graduate,Low,3.17,92.0,5.99,13,2,0,5,0,5.8,89.4,B,Pass
+STU0251,18,Female,Public,High School,Middle,3.47,77.6,7.41,19,5,0,2,2,7.2,100.0,A,Pass
+STU0252,15,Male,Public,High School,Low,2.47,84.5,7.45,8,2,0,6,0,8.7,89.3,B,Pass
+STU0253,18,Female,Private,High School,Middle,3.81,74.4,3.08,9,1,1,7,9,8.2,64.6,C,Pass
+STU0254,17,Male,Public,No Education,High,4.65,65.8,6.27,16,3,1,5,9,8.8,100.0,A,Pass
+STU0255,15,Male,Public,Graduate,Middle,1.08,79.0,4.01,10,4,1,6,8,7.2,60.0,C,Pass
+STU0256,15,Male,Private,High School,Low,3.95,86.2,8.12,15,0,1,3,0,6.7,100.0,A,Pass
+STU0257,16,Male,Private,Graduate,Middle,4.9,93.8,7.91,19,1,1,7,0,8.0,100.0,A,Pass
+STU0258,18,Female,Private,Postgraduate,Middle,2.88,72.9,4.88,12,0,1,4,4,5.9,87.2,B,Pass
+STU0259,16,Female,Public,High School,Middle,4.55,69.2,5.12,10,0,1,5,20,5.8,60.6,C,Pass
+STU0260,17,Male,Private,Graduate,High,7.72,64.3,5.67,20,3,1,6,10,5.6,100.0,A,Pass
+STU0261,15,Male,Public,Graduate,High,3.34,86.8,3.0,11,4,0,1,4,8.3,62.8,C,Pass
+STU0262,15,Female,Private,Postgraduate,Middle,4.09,83.1,7.1,12,0,0,1,5,6.0,100.0,A,Pass
+STU0263,15,Male,Public,High School,Middle,2.39,57.2,6.01,16,5,1,2,21,8.2,50.3,D,Pass
+STU0264,17,Male,Private,Graduate,Low,3.77,67.7,8.25,14,0,1,6,2,7.2,100.0,A,Pass
+STU0265,17,Male,Private,Graduate,Low,4.19,70.1,4.52,15,1,1,5,9,8.3,70.4,C,Pass
+STU0266,16,Female,Public,High School,Middle,3.79,53.6,5.39,16,4,1,3,6,5.7,74.3,C,Pass
+STU0267,16,Female,Private,High School,Middle,1.97,58.1,3.79,16,4,1,1,1,6.2,60.4,C,Pass
+STU0268,16,Female,Public,Graduate,Middle,3.81,58.9,4.69,14,0,1,2,9,7.5,65.9,C,Pass
+STU0269,18,Male,Private,Graduate,Middle,5.69,75.4,4.37,20,4,1,5,9,6.5,100.0,A,Pass
+STU0270,15,Male,Private,High School,Low,4.17,65.9,8.29,9,1,1,2,6,4.0,86.9,B,Pass
+STU0271,15,Female,Public,Graduate,Middle,4.94,54.9,5.24,19,1,1,3,16,5.4,77.9,B,Pass
+STU0272,16,Female,Private,High School,Low,3.14,98.9,6.72,12,1,1,1,1,5.7,88.9,B,Pass
+STU0273,15,Female,Private,Graduate,Low,4.62,97.2,5.81,20,5,0,7,0,5.8,100.0,A,Pass
+STU0274,16,Female,Public,High School,High,3.92,64.6,4.21,15,3,1,1,17,7.8,56.3,D,Pass
+STU0275,18,Male,Public,Postgraduate,Low,2.07,74.8,6.2,11,0,1,1,5,7.4,74.7,C,Pass
+STU0276,18,Female,Private,High School,Middle,3.98,82.7,7.58,17,4,1,6,7,7.2,100.0,A,Pass
+STU0277,17,Male,Private,High School,Low,2.01,88.4,4.33,15,1,0,0,0,9.4,66.7,C,Pass
+STU0278,18,Female,Private,No Education,High,2.55,59.9,7.96,15,0,1,6,13,8.4,83.9,B,Pass
+STU0279,16,Male,Private,High School,Middle,3.78,92.2,4.97,12,0,1,1,1,8.0,75.9,B,Pass
+STU0280,18,Female,Public,Graduate,Low,3.95,68.1,5.63,14,3,0,4,4,5.2,80.5,B,Pass
+STU0281,17,Female,Private,High School,Middle,1.72,49.6,7.46,12,5,1,0,17,7.1,53.2,D,Pass
+STU0282,15,Female,Public,Graduate,Middle,5.08,90.6,5.31,16,4,1,7,0,7.4,100.0,A,Pass
+STU0283,16,Female,Public,No Education,High,4.36,96.9,6.57,18,5,1,5,10,6.5,100.0,A,Pass
+STU0284,15,Male,Public,High School,Low,2.44,96.8,5.93,7,4,0,6,0,9.0,86.3,B,Pass
+STU0285,17,Female,Public,High School,High,1.19,50.1,6.73,13,1,1,0,16,7.1,53.4,D,Pass
+STU0286,17,Male,Public,No Education,High,3.28,84.8,3.0,13,1,1,0,5,5.5,60.4,C,Pass
+STU0287,17,Male,Public,High School,High,2.83,66.8,3.21,11,0,1,6,9,5.8,61.6,C,Pass
+STU0288,15,Male,Private,High School,Middle,3.67,87.3,7.61,12,4,1,6,1,9.7,100.0,A,Pass
+STU0289,15,Male,Public,Graduate,Middle,2.96,51.3,8.37,13,4,1,0,15,6.5,75.3,B,Pass
+STU0290,15,Female,Public,High School,Middle,0.5,47.1,4.86,0,5,0,2,21,4.5,8.3,F,Fail
+STU0291,15,Male,Public,Graduate,Middle,2.92,61.6,6.06,12,1,0,7,3,6.3,87.7,B,Pass
+STU0292,17,Male,Public,Graduate,Middle,3.04,74.8,7.03,11,2,1,4,4,4.8,84.6,B,Pass
+STU0293,17,Male,Public,No Education,Middle,4.45,68.2,7.75,17,0,0,3,4,8.1,90.3,A,Pass
+STU0294,16,Female,Public,Graduate,Middle,2.45,81.7,3.0,11,4,1,1,0,4.7,55.5,D,Pass
+STU0295,16,Female,Public,Postgraduate,Middle,6.02,98.0,4.91,17,3,1,7,2,5.3,100.0,A,Pass
+STU0296,15,Female,Private,Graduate,High,0.63,75.4,5.9,16,3,1,6,10,7.0,82.9,B,Pass
+STU0297,18,Female,Public,Graduate,Low,5.47,100.0,7.77,20,2,0,0,5,8.3,100.0,A,Pass
+STU0298,18,Male,Public,High School,High,3.16,80.2,10.0,17,1,1,3,9,6.9,100.0,A,Pass
+STU0299,17,Male,Public,Graduate,Middle,4.79,60.6,6.09,15,1,1,6,15,5.5,93.4,A,Pass
+STU0300,17,Female,Private,Graduate,High,3.62,95.8,3.97,16,1,0,2,0,7.2,90.4,A,Pass
+STU0301,17,Male,Public,Graduate,Middle,5.21,71.1,7.22,16,5,0,3,16,6.4,94.1,A,Pass
+STU0302,16,Male,Public,Postgraduate,Middle,2.92,86.9,8.88,13,3,1,0,3,8.4,100.0,A,Pass
+STU0303,16,Male,Public,High School,High,1.85,93.7,6.69,14,1,0,7,7,8.0,89.9,B,Pass
+STU0304,17,Female,Public,No Education,Low,5.63,88.2,4.87,15,3,1,5,0,6.4,100.0,A,Pass
+STU0305,17,Female,Public,Graduate,High,3.33,52.0,8.22,19,2,0,7,13,7.9,100.0,A,Pass
+STU0306,17,Male,Public,Graduate,Middle,3.83,62.2,7.69,14,0,1,7,16,7.3,92.2,A,Pass
+STU0307,18,Female,Public,High School,Middle,5.35,100.0,4.65,19,5,1,4,0,8.6,100.0,A,Pass
+STU0308,16,Female,Public,High School,Middle,1.95,67.8,7.19,17,4,1,3,6,7.9,78.2,B,Pass
+STU0309,18,Female,Public,No Education,Middle,4.39,78.9,8.3,19,2,1,6,13,7.7,100.0,A,Pass
+STU0310,18,Female,Private,High School,Middle,2.62,83.7,8.63,9,3,1,0,0,8.6,89.7,B,Pass
+STU0311,17,Female,Private,Graduate,Low,3.3,84.9,6.38,16,2,0,6,4,7.0,100.0,A,Pass
+STU0312,17,Male,Private,Graduate,Low,3.61,79.5,5.86,17,4,0,0,9,6.1,64.7,C,Pass
+STU0313,15,Female,Private,High School,Low,1.25,65.1,8.71,14,5,1,1,21,7.2,70.5,C,Pass
+STU0314,15,Male,Public,High School,High,2.33,66.8,4.32,10,0,1,5,8,6.6,64.7,C,Pass
+STU0315,18,Male,Public,No Education,High,5.53,93.9,7.29,15,4,1,1,0,7.7,100.0,A,Pass
+STU0316,16,Female,Public,High School,Middle,4.83,87.3,4.03,19,5,1,7,2,7.1,100.0,A,Pass
+STU0317,17,Male,Public,Graduate,Middle,3.41,70.9,8.42,12,3,1,5,10,7.5,100.0,A,Pass
+STU0318,17,Male,Private,Postgraduate,Middle,3.86,92.3,6.04,14,4,1,4,5,5.6,100.0,A,Pass
+STU0319,18,Male,Public,Graduate,Middle,3.06,71.7,8.78,19,2,1,1,14,7.6,100.0,A,Pass
+STU0320,15,Female,Private,No Education,High,5.53,68.3,7.38,17,1,1,4,13,5.5,100.0,A,Pass
+STU0321,16,Female,Public,Postgraduate,High,3.2,62.7,4.3,12,2,1,6,9,8.2,72.7,C,Pass
+STU0322,15,Male,Private,Graduate,Middle,3.85,61.4,9.06,12,3,1,7,16,8.2,100.0,A,Pass
+STU0323,15,Female,Public,Graduate,Middle,5.22,76.1,9.29,18,0,1,2,8,7.4,100.0,A,Pass
+STU0324,15,Female,Public,Graduate,Low,2.33,90.0,8.09,9,4,0,2,7,7.4,81.5,B,Pass
+STU0325,15,Female,Public,High School,High,5.84,69.9,5.13,17,0,1,5,13,6.7,95.3,A,Pass
+STU0326,17,Female,Public,High School,Low,1.2,70.9,5.95,13,3,0,5,17,6.3,52.3,D,Pass
+STU0327,17,Male,Public,No Education,Middle,5.94,72.5,6.76,20,4,1,1,6,7.0,100.0,A,Pass
+STU0328,15,Male,Public,High School,Middle,2.94,69.4,5.23,16,5,0,2,6,9.4,79.3,B,Pass
+STU0329,16,Female,Private,High School,Middle,3.14,51.3,9.55,12,5,0,3,17,7.3,76.6,B,Pass
+STU0330,18,Female,Public,Graduate,Low,0.66,63.2,6.76,15,2,1,3,17,5.4,53.2,D,Pass
+STU0331,16,Male,Public,Graduate,High,2.82,70.0,3.0,13,2,1,6,9,4.9,62.8,C,Pass
+STU0332,16,Male,Public,Graduate,Low,1.94,78.4,7.11,9,3,1,3,13,5.3,63.6,C,Pass
+STU0333,16,Female,Private,No Education,Middle,2.59,75.6,5.87,13,5,1,6,11,6.5,68.4,C,Pass
+STU0334,15,Male,Public,Postgraduate,Low,3.29,56.4,6.37,19,4,1,2,12,8.5,89.0,B,Pass
+STU0335,17,Female,Public,Postgraduate,Middle,4.94,95.6,5.84,17,5,0,3,4,5.8,100.0,A,Pass
+STU0336,16,Female,Public,Graduate,Middle,3.81,79.1,7.95,15,2,1,4,4,8.7,100.0,A,Pass
+STU0337,15,Male,Public,Postgraduate,Middle,3.96,79.4,8.52,20,3,1,0,7,7.2,100.0,A,Pass
+STU0338,16,Male,Private,Graduate,Low,1.86,69.9,7.01,8,5,1,5,4,7.6,74.8,C,Pass
+STU0339,16,Female,Public,Postgraduate,Low,2.18,63.3,5.89,9,3,1,7,11,7.5,72.8,C,Pass
+STU0340,15,Female,Public,No Education,Middle,6.2,86.4,6.43,13,5,1,1,9,7.7,100.0,A,Pass
+STU0341,17,Male,Private,High School,Middle,2.4,78.8,6.54,14,0,1,6,10,6.5,85.7,B,Pass
+STU0342,17,Female,Public,High School,High,5.98,56.2,5.06,18,5,1,4,16,4.2,70.6,C,Pass
+STU0343,18,Male,Public,High School,Low,3.14,65.8,7.54,19,2,1,3,12,6.3,77.4,B,Pass
+STU0344,15,Female,Public,High School,Middle,3.5,71.2,7.33,15,4,1,7,9,5.9,94.9,A,Pass
+STU0345,18,Male,Private,Graduate,Low,5.11,83.7,9.27,15,2,1,7,0,7.4,100.0,A,Pass
+STU0346,18,Male,Public,Graduate,Low,5.41,98.6,8.76,17,2,0,0,0,7.3,100.0,A,Pass
+STU0347,18,Male,Private,Graduate,Middle,3.33,62.9,5.27,15,2,1,1,12,6.7,68.0,C,Pass
+STU0348,17,Female,Public,High School,Middle,2.92,65.8,7.98,9,3,1,4,5,9.1,100.0,A,Pass
+STU0349,15,Female,Public,Graduate,Low,3.42,67.1,4.79,20,1,0,1,1,6.2,70.8,C,Pass
+STU0350,18,Male,Public,Graduate,Low,4.01,64.5,7.75,17,1,1,6,16,4.3,95.8,A,Pass
+STU0351,15,Female,Private,High School,Low,4.84,73.8,5.57,17,0,1,6,8,7.1,93.3,A,Pass
+STU0352,15,Male,Public,Graduate,High,3.51,86.6,4.66,16,2,1,5,5,8.4,95.3,A,Pass
+STU0353,17,Male,Private,High School,High,4.43,62.0,7.0,18,1,1,2,14,7.3,100.0,A,Pass
+STU0354,18,Female,Private,High School,Low,5.96,88.8,3.0,17,0,1,6,0,6.6,100.0,A,Pass
+STU0355,18,Female,Public,Postgraduate,Low,4.07,51.2,3.35,13,3,0,3,13,7.3,49.0,D,Pass
+STU0356,15,Male,Public,High School,High,3.97,68.0,6.18,17,2,1,7,17,9.2,95.7,A,Pass
+STU0357,16,Female,Public,Graduate,High,1.22,63.2,6.65,13,4,1,4,9,5.9,73.7,C,Pass
+STU0358,17,Female,Public,Postgraduate,Middle,0.5,91.0,5.84,8,3,1,4,1,7.0,68.2,C,Pass
+STU0359,17,Male,Private,Graduate,Low,4.08,72.6,3.66,19,0,0,0,5,7.8,69.8,C,Pass
+STU0360,17,Male,Private,No Education,Low,3.36,41.6,5.03,15,3,1,7,14,7.3,57.1,D,Pass
+STU0361,17,Female,Public,High School,Middle,2.73,42.7,7.2,16,4,1,0,23,6.7,52.8,D,Pass
+STU0362,18,Male,Public,No Education,Middle,3.87,76.6,7.55,19,3,1,0,0,6.5,99.2,A,Pass
+STU0363,18,Male,Private,Graduate,Low,3.41,83.9,6.47,14,0,1,7,3,6.7,100.0,A,Pass
+STU0364,16,Female,Public,High School,Middle,5.19,85.7,8.58,17,4,1,1,5,7.6,100.0,A,Pass
+STU0365,17,Male,Private,High School,Low,3.63,77.9,7.22,17,4,1,3,15,7.6,92.0,A,Pass
+STU0366,17,Male,Public,Postgraduate,Middle,2.38,89.1,5.15,11,3,1,1,0,9.5,83.4,B,Pass
+STU0367,15,Female,Private,Graduate,Middle,4.99,71.4,6.0,16,4,1,3,2,5.2,100.0,A,Pass
+STU0368,18,Female,Public,High School,Low,3.17,87.4,3.97,14,3,0,4,0,9.1,89.0,B,Pass
+STU0369,17,Male,Public,Graduate,Middle,4.29,52.9,6.31,13,2,1,6,18,6.8,74.0,C,Pass
+STU0370,16,Male,Public,Graduate,Middle,2.78,59.3,8.5,20,4,1,6,13,6.9,100.0,A,Pass
+STU0371,16,Female,Public,No Education,High,2.53,45.0,7.73,9,3,1,1,9,8.0,75.8,B,Pass
+STU0372,18,Female,Public,High School,Middle,3.63,71.3,9.02,11,2,1,1,9,8.0,99.2,A,Pass
+STU0373,16,Female,Private,Graduate,Low,3.52,74.4,5.95,18,4,1,1,15,8.4,81.7,B,Pass
+STU0374,16,Female,Private,Graduate,Middle,4.22,78.9,8.92,18,2,1,2,8,8.6,100.0,A,Pass
+STU0375,18,Male,Public,Graduate,Low,3.1,74.7,6.15,11,5,1,5,8,7.0,77.0,B,Pass
+STU0376,17,Female,Public,High School,High,0.75,52.8,9.15,13,4,1,7,15,8.7,80.4,B,Pass
+STU0377,17,Female,Public,No Education,Middle,2.85,70.2,6.46,18,5,1,3,11,6.2,87.8,B,Pass
+STU0378,16,Male,Public,High School,Middle,4.69,56.1,7.77,16,0,1,6,7,6.6,100.0,A,Pass
+STU0379,16,Female,Public,High School,Low,3.05,94.1,9.16,20,0,1,3,1,6.8,100.0,A,Pass
+STU0380,17,Male,Public,High School,Middle,3.13,69.3,6.15,9,3,1,1,8,6.4,69.9,C,Pass
+STU0381,18,Female,Public,No Education,High,4.98,72.1,6.89,18,1,1,2,6,7.1,98.0,A,Pass
+STU0382,16,Female,Public,Graduate,High,2.43,95.6,8.82,17,5,0,1,5,8.1,100.0,A,Pass
+STU0383,15,Female,Public,Postgraduate,Low,1.19,49.4,6.26,14,5,1,3,12,7.8,61.1,C,Pass
+STU0384,18,Male,Public,Graduate,Low,3.26,57.4,4.12,14,0,1,5,11,6.3,66.3,C,Pass
+STU0385,16,Male,Private,Postgraduate,High,2.77,56.4,10.0,13,5,1,6,7,6.2,100.0,A,Pass
+STU0386,16,Female,Public,High School,High,2.05,69.6,5.65,14,1,0,5,11,6.0,70.3,C,Pass
+STU0387,15,Male,Private,Postgraduate,Low,3.24,80.7,6.79,17,2,1,7,11,7.1,100.0,A,Pass
+STU0388,15,Male,Public,High School,Middle,4.24,88.3,8.58,17,2,0,4,2,5.1,100.0,A,Pass
+STU0389,17,Male,Public,Postgraduate,Middle,3.49,100.0,5.4,18,1,1,2,4,5.9,100.0,A,Pass
+STU0390,18,Male,Private,Postgraduate,High,3.96,42.6,4.69,12,5,1,5,16,6.4,62.4,C,Pass
+STU0391,18,Male,Private,Graduate,Low,6.22,92.3,6.96,17,5,1,2,0,8.3,100.0,A,Pass
+STU0392,17,Male,Private,Postgraduate,Low,2.99,65.1,3.27,11,5,0,1,10,6.8,39.6,F,Fail
+STU0393,18,Female,Public,Graduate,Middle,3.92,67.5,5.98,14,3,0,4,9,8.2,82.0,B,Pass
+STU0394,18,Female,Public,High School,Low,2.74,63.4,6.94,17,4,0,3,11,7.2,75.7,B,Pass
+STU0395,18,Male,Private,High School,Middle,2.23,57.6,6.01,13,1,1,5,14,6.4,58.9,D,Pass
+STU0396,18,Female,Public,Graduate,Middle,2.62,97.4,3.72,20,1,1,5,0,6.5,88.3,B,Pass
+STU0397,18,Female,Public,No Education,Middle,2.78,85.5,9.37,14,1,1,0,12,5.6,93.2,A,Pass
+STU0398,15,Female,Public,Graduate,Middle,4.04,77.0,6.69,15,1,1,6,7,9.9,100.0,A,Pass
+STU0399,18,Female,Public,Postgraduate,Middle,7.02,100.0,9.08,19,1,1,3,0,8.3,100.0,A,Pass
+STU0400,15,Male,Private,High School,Low,2.43,49.1,6.03,11,5,1,5,19,7.7,49.3,D,Pass
+STU0401,18,Female,Public,Graduate,Middle,2.88,53.2,4.92,14,3,0,5,14,5.4,61.7,C,Pass
+STU0402,17,Female,Public,Postgraduate,High,3.41,42.0,6.98,18,0,0,3,30,6.5,66.2,C,Pass
+STU0403,16,Male,Public,Postgraduate,Middle,4.09,66.3,6.11,16,5,1,4,9,5.8,93.9,A,Pass
+STU0404,15,Male,Public,Postgraduate,Low,3.9,78.6,4.38,13,5,1,2,8,7.2,75.8,B,Pass
+STU0405,18,Female,Public,Graduate,Low,5.43,82.3,9.15,14,4,0,3,2,5.9,100.0,A,Pass
+STU0406,17,Female,Public,Postgraduate,Low,0.5,68.2,5.38,10,0,0,2,14,6.2,43.5,F,Fail
+STU0407,16,Female,Public,Graduate,Middle,0.5,44.8,3.19,11,1,1,4,18,5.9,13.2,F,Fail
+STU0408,15,Female,Private,High School,Middle,2.76,84.8,8.89,17,0,1,4,3,6.7,100.0,A,Pass
+STU0409,16,Female,Public,Graduate,Middle,5.15,83.5,5.59,12,3,1,7,1,7.1,100.0,A,Pass
+STU0410,17,Female,Public,Graduate,Low,1.15,79.0,5.41,11,2,1,1,0,6.7,69.6,C,Pass
+STU0411,15,Male,Private,High School,Low,0.5,40.0,3.32,11,5,1,0,20,8.8,0.0,F,Fail
+STU0412,16,Female,Private,Graduate,Middle,4.36,82.2,9.63,10,0,1,4,0,8.0,100.0,A,Pass
+STU0413,18,Female,Public,Graduate,Middle,3.87,58.3,4.18,12,4,1,7,19,6.1,61.2,C,Pass
+STU0414,15,Male,Public,High School,Low,1.86,64.1,6.61,10,3,1,7,4,7.4,66.5,C,Pass
+STU0415,16,Male,Public,Graduate,Middle,2.02,78.6,8.14,10,2,1,7,6,6.2,91.3,A,Pass
+STU0416,17,Male,Private,Graduate,Low,2.05,72.0,7.26,13,3,1,4,4,6.5,82.7,B,Pass
+STU0417,17,Male,Private,Graduate,High,3.67,62.7,6.39,14,1,1,2,11,7.6,73.4,C,Pass
+STU0418,15,Female,Private,No Education,High,2.56,72.3,3.44,12,2,1,4,8,7.8,55.5,D,Pass
+STU0419,16,Female,Public,No Education,Low,4.24,54.3,5.04,17,4,0,3,16,6.3,56.8,D,Pass
+STU0420,15,Female,Private,High School,Low,0.5,83.3,6.84,16,2,0,1,0,5.7,82.7,B,Pass
+STU0421,15,Female,Public,Postgraduate,Middle,2.21,68.1,5.08,18,4,1,1,6,7.1,69.3,C,Pass
+STU0422,16,Female,Public,High School,Low,1.81,86.7,6.87,7,1,1,3,9,7.5,68.5,C,Pass
+STU0423,16,Female,Public,Graduate,Middle,3.12,65.9,7.73,16,4,1,5,14,6.2,87.0,B,Pass
+STU0424,18,Male,Private,High School,High,2.69,64.7,8.23,13,3,1,4,0,8.0,92.4,A,Pass
+STU0425,16,Female,Public,High School,Middle,4.7,67.1,4.29,16,0,0,6,12,7.8,78.4,B,Pass
+STU0426,17,Male,Private,Graduate,High,0.71,79.8,10.0,10,3,1,0,1,6.2,99.7,A,Pass
+STU0427,15,Male,Public,Graduate,Middle,3.57,64.6,7.88,15,5,1,7,8,8.4,100.0,A,Pass
+STU0428,15,Female,Public,No Education,Low,4.34,87.2,6.5,16,3,1,4,3,8.4,94.6,A,Pass
+STU0429,17,Male,Public,High School,Middle,6.28,77.6,8.46,16,2,1,1,15,9.5,100.0,A,Pass
+STU0430,16,Female,Public,No Education,Middle,2.78,43.2,10.0,11,1,1,0,12,9.1,80.7,B,Pass
+STU0431,17,Male,Private,Graduate,Middle,3.99,67.9,3.91,14,5,1,6,3,5.9,86.9,B,Pass
+STU0432,17,Female,Public,Graduate,Low,0.79,49.2,6.09,12,5,1,5,17,8.1,52.5,D,Pass
+STU0433,18,Male,Private,High School,Low,0.5,66.5,3.0,13,5,1,2,10,8.1,36.8,F,Fail
+STU0434,17,Female,Private,High School,High,4.77,60.9,6.85,19,0,1,2,18,6.6,93.4,A,Pass
+STU0435,15,Female,Private,High School,Low,3.49,88.9,7.16,13,4,1,6,2,7.5,100.0,A,Pass
+STU0436,17,Female,Public,Postgraduate,High,5.27,78.9,6.43,17,2,1,4,12,4.7,100.0,A,Pass
+STU0437,15,Female,Public,Postgraduate,High,1.44,66.2,5.32,15,1,1,4,10,4.7,75.3,B,Pass
+STU0438,15,Female,Public,No Education,Middle,4.28,87.2,3.0,19,0,1,0,6,4.9,71.2,C,Pass
+STU0439,15,Male,Private,Graduate,Middle,6.3,97.9,7.17,18,3,1,0,9,7.5,100.0,A,Pass
+STU0440,16,Male,Private,High School,Middle,4.13,76.6,9.12,15,1,1,5,6,7.5,100.0,A,Pass
+STU0441,18,Male,Public,High School,High,3.91,64.7,5.44,16,5,1,4,16,6.7,70.8,C,Pass
+STU0442,15,Female,Private,Graduate,Low,3.51,48.4,7.29,11,1,1,1,12,9.1,61.7,C,Pass
+STU0443,15,Male,Public,Postgraduate,Middle,1.14,57.6,3.68,11,1,0,2,14,8.2,32.2,F,Fail
+STU0444,16,Female,Public,Postgraduate,Middle,5.53,71.8,7.32,19,3,0,5,1,5.1,100.0,A,Pass
+STU0445,15,Female,Public,Graduate,Middle,2.58,73.9,5.79,15,4,1,7,5,6.8,91.9,A,Pass
+STU0446,17,Male,Private,High School,Middle,4.26,72.1,5.13,15,2,1,0,3,5.9,78.9,B,Pass
+STU0447,17,Male,Public,Graduate,Middle,1.16,78.3,5.13,12,5,1,7,13,7.5,73.2,C,Pass
+STU0448,18,Female,Private,High School,Middle,1.73,60.5,5.79,10,4,0,1,21,7.0,36.2,F,Fail
+STU0449,15,Male,Private,Graduate,High,5.65,80.6,7.19,19,0,1,4,4,5.9,100.0,A,Pass
+STU0450,16,Female,Private,High School,Low,2.98,91.2,4.14,14,5,1,3,0,9.0,76.8,B,Pass
+STU0451,17,Female,Public,Graduate,High,5.68,86.7,5.79,16,2,1,0,0,7.1,100.0,A,Pass
+STU0452,16,Female,Public,High School,Middle,3.38,73.7,6.43,13,0,1,5,9,6.5,90.1,A,Pass
+STU0453,16,Female,Public,High School,High,0.74,57.7,4.52,11,3,0,3,10,6.7,40.6,F,Fail
+STU0454,17,Female,Public,Postgraduate,Middle,4.84,69.5,9.73,15,4,1,1,6,8.9,100.0,A,Pass
+STU0455,16,Male,Public,High School,Middle,2.62,59.6,4.96,15,5,1,7,20,8.1,67.5,C,Pass
+STU0456,17,Male,Private,Graduate,Low,4.55,70.0,5.3,15,1,0,6,8,6.8,96.0,A,Pass
+STU0457,16,Female,Public,High School,High,3.54,86.4,4.74,19,2,0,2,7,5.8,81.7,B,Pass
+STU0458,17,Female,Public,No Education,Low,1.19,64.7,9.74,16,5,0,6,11,6.0,88.4,B,Pass
+STU0459,15,Male,Public,No Education,High,3.75,55.5,7.5,12,1,1,6,7,6.4,87.1,B,Pass
+STU0460,18,Male,Public,High School,High,6.79,100.0,4.81,19,5,1,6,0,7.6,100.0,A,Pass
+STU0461,17,Female,Public,Postgraduate,Low,4.24,82.0,8.49,13,0,1,1,8,7.9,100.0,A,Pass
+STU0462,17,Male,Public,High School,Low,3.41,53.6,6.86,13,1,0,2,22,6.1,61.8,C,Pass
+STU0463,18,Female,Private,Postgraduate,Middle,5.11,73.2,6.96,20,1,1,1,10,8.0,100.0,A,Pass
+STU0464,17,Male,Public,Graduate,Low,3.82,77.6,5.88,14,5,1,6,10,5.9,83.4,B,Pass
+STU0465,17,Female,Private,High School,High,3.81,100.0,5.15,16,3,1,0,0,6.3,91.2,A,Pass
+STU0466,16,Male,Private,Graduate,Low,1.86,53.5,7.11,14,3,0,6,19,5.3,73.6,C,Pass
+STU0467,18,Female,Public,Graduate,Low,3.85,90.7,5.52,12,4,0,0,8,5.2,64.9,C,Pass
+STU0468,15,Male,Private,Graduate,High,5.05,100.0,9.77,14,0,1,5,0,5.9,100.0,A,Pass
+STU0469,17,Male,Public,High School,Middle,2.25,61.8,4.22,9,3,0,6,14,7.0,40.1,F,Fail
+STU0470,18,Female,Private,High School,High,5.64,77.2,9.27,14,5,1,3,0,5.8,100.0,A,Pass
+STU0471,16,Male,Public,Postgraduate,Middle,3.36,59.0,6.3,6,3,1,1,16,8.8,53.3,D,Pass
+STU0472,15,Female,Private,Postgraduate,Middle,2.17,68.0,7.04,15,4,1,6,7,5.9,90.6,A,Pass
+STU0473,18,Male,Private,Postgraduate,Middle,5.0,78.9,8.0,20,2,0,1,0,7.2,100.0,A,Pass
+STU0474,15,Female,Private,High School,Middle,3.07,83.6,5.37,14,4,1,7,7,8.6,96.8,A,Pass
+STU0475,15,Male,Private,Graduate,Middle,4.64,94.8,8.06,12,1,1,6,0,7.1,100.0,A,Pass
+STU0476,15,Female,Public,Graduate,Middle,3.06,62.5,3.0,12,1,1,3,13,6.6,44.8,F,Fail
+STU0477,17,Male,Public,Graduate,Middle,3.41,45.2,5.2,13,3,1,6,11,7.2,63.6,C,Pass
+STU0478,17,Female,Public,High School,Low,4.24,76.9,4.84,12,3,1,4,0,6.3,82.4,B,Pass
+STU0479,16,Male,Public,Graduate,Middle,3.94,80.7,4.24,18,4,1,5,6,5.8,84.0,B,Pass
+STU0480,16,Female,Private,High School,Low,0.51,69.8,6.11,13,4,1,7,8,7.7,68.9,C,Pass
+STU0481,18,Female,Public,High School,Middle,1.82,65.1,7.19,9,5,1,1,18,6.3,53.3,D,Pass
+STU0482,16,Female,Private,Postgraduate,Low,4.89,81.1,7.76,18,0,0,7,0,8.1,100.0,A,Pass
+STU0483,15,Male,Public,High School,Middle,3.3,97.1,6.93,19,5,1,5,8,8.0,100.0,A,Pass
+STU0484,15,Female,Private,No Education,Middle,2.71,78.4,5.3,19,1,1,1,1,7.2,92.7,A,Pass
+STU0485,17,Male,Public,No Education,Low,1.46,63.3,7.16,20,5,1,1,16,8.2,61.7,C,Pass
+STU0486,15,Female,Private,Postgraduate,Low,1.88,62.6,6.72,10,4,0,4,17,6.3,54.9,D,Pass
+STU0487,18,Male,Private,Graduate,Low,0.5,63.5,8.18,19,5,1,6,13,7.9,97.4,A,Pass
+STU0488,15,Female,Public,High School,Middle,3.35,99.1,7.9,13,2,1,0,0,7.9,100.0,A,Pass
+STU0489,15,Male,Public,Graduate,High,2.6,69.6,6.55,12,0,0,5,2,6.6,97.0,A,Pass
+STU0490,18,Male,Private,Graduate,Low,2.05,70.4,4.88,14,4,1,3,0,6.5,71.8,C,Pass
+STU0491,16,Female,Public,High School,Middle,3.4,67.5,5.32,13,3,1,5,19,7.4,66.4,C,Pass
+STU0492,16,Male,Public,Graduate,Middle,4.05,93.1,5.51,16,5,1,6,1,9.4,100.0,A,Pass
+STU0493,18,Male,Public,Graduate,Middle,6.64,100.0,5.93,14,4,1,4,0,6.7,100.0,A,Pass
+STU0494,17,Female,Public,Graduate,High,1.23,75.0,6.98,11,3,0,2,2,6.5,69.6,C,Pass
+STU0495,15,Male,Public,High School,Middle,5.24,81.5,7.79,20,3,1,7,6,8.4,100.0,A,Pass
+STU0496,18,Male,Public,Postgraduate,Middle,4.96,79.9,6.41,16,1,1,2,4,7.1,100.0,A,Pass
+STU0497,15,Male,Public,Graduate,Low,2.33,40.0,6.53,14,1,1,4,8,8.0,63.9,C,Pass
+STU0498,17,Female,Public,High School,Low,3.8,87.1,6.76,16,4,1,7,8,8.8,100.0,A,Pass
+STU0499,15,Male,Private,High School,Low,2.81,75.0,5.57,17,4,1,6,9,4.7,83.3,B,Pass
+STU0500,18,Female,Public,No Education,Low,3.78,82.3,4.83,10,2,1,4,15,7.0,65.1,C,Pass
+STU0501,15,Male,Private,High School,Middle,5.76,71.1,3.34,19,0,0,0,14,6.7,63.1,C,Pass
+STU0502,16,Male,Public,Graduate,Middle,4.41,72.0,5.25,15,0,1,5,0,5.8,97.8,A,Pass
+STU0503,17,Male,Public,No Education,Middle,4.26,71.1,7.35,16,4,1,6,16,4.7,95.7,A,Pass
+STU0504,17,Female,Public,High School,Low,2.85,88.4,5.23,17,1,1,7,10,5.1,85.9,B,Pass
+STU0505,17,Male,Public,Graduate,Low,1.27,62.6,6.07,8,5,1,5,8,7.1,61.5,C,Pass
+STU0506,18,Male,Public,No Education,Middle,3.19,99.1,7.34,11,2,1,2,0,6.4,97.6,A,Pass
+STU0507,17,Female,Public,Postgraduate,High,5.31,86.9,7.44,11,0,0,6,6,6.0,100.0,A,Pass
+STU0508,16,Male,Public,High School,Low,1.21,49.0,4.56,10,4,1,3,10,7.1,30.1,F,Fail
+STU0509,18,Female,Public,High School,High,1.92,68.3,8.29,17,1,1,5,8,6.2,99.0,A,Pass
+STU0510,16,Female,Private,High School,Middle,3.69,65.8,8.53,14,1,1,1,15,8.5,95.0,A,Pass
+STU0511,15,Male,Public,High School,Middle,2.02,40.0,4.47,9,1,1,7,21,6.3,34.0,F,Fail
+STU0512,15,Female,Public,No Education,Middle,2.31,95.4,5.02,12,5,0,1,0,8.8,65.6,C,Pass
+STU0513,15,Male,Private,Graduate,Low,2.86,83.6,8.64,9,3,1,0,10,7.0,92.3,A,Pass
+STU0514,15,Female,Public,Postgraduate,Low,1.45,76.9,6.24,9,5,0,7,8,6.2,75.1,B,Pass
+STU0515,16,Female,Public,High School,Middle,2.04,73.1,3.0,14,1,0,6,9,6.1,55.3,D,Pass
+STU0516,18,Male,Private,Graduate,Middle,4.56,57.4,3.98,12,4,1,7,10,8.8,78.3,B,Pass
+STU0517,18,Female,Public,Graduate,High,1.54,61.9,6.05,15,2,1,0,11,7.8,56.5,D,Pass
+STU0518,17,Female,Private,Graduate,Middle,1.1,80.4,4.41,11,5,1,7,2,6.1,74.6,C,Pass
+STU0519,16,Female,Private,High School,Low,2.55,56.4,5.76,14,4,0,6,3,7.1,81.7,B,Pass
+STU0520,15,Female,Public,High School,Middle,4.6,43.3,6.56,15,1,1,2,16,4.2,65.9,C,Pass
+STU0521,16,Female,Public,High School,Low,3.2,70.7,9.13,16,2,1,3,8,5.4,90.3,A,Pass
+STU0522,17,Male,Public,Graduate,Middle,2.8,70.8,5.98,16,0,1,3,9,6.1,82.8,B,Pass
+STU0523,17,Female,Public,Graduate,Middle,3.57,77.2,8.43,16,0,1,4,13,6.1,100.0,A,Pass
+STU0524,16,Male,Public,High School,High,0.88,78.1,9.07,13,4,1,0,3,8.5,81.8,B,Pass
+STU0525,16,Female,Private,High School,Middle,4.24,86.8,9.08,15,2,1,6,2,4.7,100.0,A,Pass
+STU0526,16,Male,Public,Postgraduate,Middle,4.08,80.6,7.01,17,4,1,5,10,5.3,100.0,A,Pass
+STU0527,18,Male,Public,Graduate,Middle,2.89,91.1,3.0,13,2,1,1,0,7.5,59.9,D,Pass
+STU0528,15,Female,Private,Postgraduate,High,5.01,56.7,7.33,16,2,0,5,14,7.3,100.0,A,Pass
+STU0529,16,Female,Private,Graduate,Low,1.81,77.5,8.39,12,4,1,1,5,6.6,90.8,A,Pass
+STU0530,16,Female,Public,High School,Low,5.19,89.5,6.35,15,2,0,2,2,9.5,90.4,A,Pass
+STU0531,16,Male,Public,Graduate,Low,3.73,57.1,9.64,13,5,0,1,17,7.7,88.3,B,Pass
+STU0532,17,Female,Public,Graduate,Low,3.0,50.9,8.05,15,1,0,5,13,8.5,87.4,B,Pass
+STU0533,17,Male,Public,No Education,Middle,3.47,63.7,7.52,18,2,1,7,15,6.9,100.0,A,Pass
+STU0534,18,Male,Public,Graduate,Middle,3.34,64.6,8.46,18,5,1,5,1,6.3,100.0,A,Pass
+STU0535,15,Male,Public,Graduate,Middle,5.33,91.8,7.1,13,2,1,3,0,6.4,100.0,A,Pass
+STU0536,18,Female,Private,High School,Low,1.88,60.9,3.0,16,5,1,6,0,8.1,61.8,C,Pass
+STU0537,15,Female,Public,Graduate,Middle,2.36,58.7,5.6,12,4,0,3,7,7.9,59.7,D,Pass
+STU0538,17,Male,Public,Graduate,Middle,5.05,70.5,8.65,18,0,1,0,18,6.7,95.2,A,Pass
+STU0539,17,Male,Public,Postgraduate,Middle,2.61,89.1,5.05,11,3,1,7,3,7.6,79.2,B,Pass
+STU0540,17,Female,Public,No Education,Middle,4.85,79.2,6.1,17,2,1,5,3,8.2,100.0,A,Pass
+STU0541,18,Male,Private,High School,Middle,6.05,80.0,4.62,19,3,1,7,10,6.3,100.0,A,Pass
+STU0542,16,Female,Private,Graduate,Low,2.9,71.5,9.71,9,2,0,7,13,6.6,78.3,B,Pass
+STU0543,16,Male,Private,High School,Low,4.52,97.4,9.53,18,4,0,6,0,7.5,100.0,A,Pass
+STU0544,17,Female,Public,Graduate,High,1.77,58.6,4.91,16,4,1,2,25,4.9,49.2,D,Pass
+STU0545,16,Male,Public,Graduate,High,4.63,98.1,6.77,15,5,1,1,2,7.6,100.0,A,Pass
+STU0546,16,Female,Public,High School,Middle,3.8,79.1,5.28,19,2,1,0,8,5.6,76.7,B,Pass
+STU0547,18,Male,Public,Graduate,Low,4.21,74.7,7.61,15,4,1,4,10,8.1,100.0,A,Pass
+STU0548,15,Female,Public,Graduate,Middle,2.53,97.1,7.42,16,4,1,7,3,9.6,100.0,A,Pass
+STU0549,17,Female,Private,High School,Middle,1.01,51.7,7.96,5,2,1,4,11,6.2,51.9,D,Pass
+STU0550,17,Male,Public,Postgraduate,Middle,4.25,72.0,7.1,20,5,0,6,19,5.4,99.8,A,Pass
+STU0551,18,Male,Public,Graduate,Low,0.5,47.5,10.0,15,5,0,1,14,6.8,66.6,C,Pass
+STU0552,18,Female,Public,Graduate,Low,3.02,87.9,4.65,13,5,1,1,8,6.7,60.4,C,Pass
+STU0553,16,Male,Public,Graduate,Middle,4.91,100.0,3.42,10,5,1,6,0,7.8,85.5,B,Pass
+STU0554,17,Female,Public,Graduate,Middle,3.79,100.0,5.79,16,0,0,1,0,7.3,88.9,B,Pass
+STU0555,15,Male,Private,Postgraduate,Low,6.42,100.0,3.68,14,2,0,3,10,6.6,84.0,B,Pass
+STU0556,18,Female,Private,Graduate,Low,5.04,76.6,3.81,18,0,0,1,6,7.1,83.0,B,Pass
+STU0557,15,Female,Private,Graduate,Middle,2.52,66.6,4.7,15,4,0,4,10,5.7,76.4,B,Pass
+STU0558,15,Female,Public,Postgraduate,High,3.54,50.1,4.84,12,0,0,1,16,8.0,51.5,D,Pass
+STU0559,17,Female,Public,High School,High,3.43,99.8,4.78,18,5,1,5,13,8.9,95.3,A,Pass
+STU0560,17,Female,Public,Graduate,Middle,1.13,74.9,7.43,14,4,1,6,18,5.6,69.5,C,Pass
+STU0561,18,Female,Public,High School,Middle,2.09,63.4,5.59,16,0,1,2,17,5.1,43.1,F,Fail
+STU0562,17,Male,Private,High School,Low,2.66,92.4,6.18,14,0,1,4,17,6.5,84.5,B,Pass
+STU0563,17,Male,Public,High School,Middle,0.5,51.4,8.11,7,2,1,2,10,5.5,49.4,D,Pass
+STU0564,17,Male,Public,Postgraduate,Middle,3.57,81.3,5.12,18,0,1,4,9,5.5,95.2,A,Pass
+STU0565,15,Female,Public,Postgraduate,Middle,3.13,71.3,6.02,13,4,1,7,9,5.3,89.9,B,Pass
+STU0566,18,Female,Public,Graduate,Middle,0.99,77.1,7.16,7,5,1,0,0,6.8,75.3,B,Pass
+STU0567,16,Female,Private,Graduate,Low,4.11,75.9,3.01,19,2,1,5,10,6.5,80.5,B,Pass
+STU0568,15,Female,Public,Graduate,Low,4.57,56.5,3.0,20,0,1,4,11,7.4,71.2,C,Pass
+STU0569,17,Male,Public,Postgraduate,Middle,3.84,77.2,7.12,15,2,1,7,15,6.3,100.0,A,Pass
+STU0570,15,Male,Public,Graduate,Low,3.01,89.3,7.39,20,3,1,5,1,5.5,100.0,A,Pass
+STU0571,17,Female,Public,High School,Low,4.39,77.2,10.0,16,2,1,4,5,7.0,100.0,A,Pass
+STU0572,17,Male,Private,High School,High,4.52,89.7,6.78,15,5,1,2,11,5.7,100.0,A,Pass
+STU0573,15,Male,Private,Graduate,Middle,3.96,60.7,7.98,13,3,0,2,11,7.6,81.1,B,Pass
+STU0574,18,Female,Private,Graduate,Middle,2.26,70.9,6.15,18,3,1,6,15,5.0,81.5,B,Pass
+STU0575,17,Male,Private,High School,High,3.91,66.9,7.04,13,2,1,4,12,4.4,88.6,B,Pass
+STU0576,18,Female,Public,No Education,High,5.29,91.6,9.5,19,4,0,4,5,5.1,100.0,A,Pass
+STU0577,16,Male,Private,Graduate,Middle,2.61,72.8,3.0,12,5,1,3,7,6.5,61.9,C,Pass
+STU0578,17,Female,Public,No Education,High,6.65,94.8,7.24,17,4,1,5,4,6.7,100.0,A,Pass
+STU0579,18,Female,Public,Graduate,Middle,2.71,89.0,10.0,17,5,0,5,3,7.2,100.0,A,Pass
+STU0580,18,Female,Private,Postgraduate,Middle,3.55,85.5,7.01,13,5,1,5,0,6.3,100.0,A,Pass
+STU0581,16,Female,Public,High School,Middle,2.49,76.1,9.47,12,4,0,5,7,6.0,98.7,A,Pass
+STU0582,18,Male,Private,High School,Middle,3.83,61.0,5.37,18,1,1,0,18,8.7,74.4,C,Pass
+STU0583,18,Female,Public,Graduate,Middle,0.89,67.1,6.44,16,3,1,0,13,8.4,66.7,C,Pass
+STU0584,16,Female,Public,Graduate,Middle,2.68,64.5,6.56,15,2,1,7,14,8.2,86.0,B,Pass
+STU0585,17,Female,Private,Graduate,Low,1.86,64.9,3.0,11,4,1,1,11,7.4,24.2,F,Fail
+STU0586,18,Male,Private,Postgraduate,Middle,3.7,70.0,4.4,13,4,1,4,0,7.5,77.0,B,Pass
+STU0587,18,Female,Public,No Education,Low,4.99,64.8,4.53,17,2,1,4,4,6.0,82.3,B,Pass
+STU0588,18,Male,Public,Graduate,Middle,4.47,48.5,7.98,17,3,1,4,14,7.2,92.9,A,Pass
+STU0589,15,Female,Public,Graduate,Middle,0.5,56.0,8.07,8,2,1,4,8,5.9,67.4,C,Pass
+STU0590,16,Male,Public,Postgraduate,Middle,6.56,87.1,7.08,20,5,1,5,1,5.7,100.0,A,Pass
+STU0591,15,Male,Public,High School,Middle,3.94,56.1,7.98,15,1,1,5,10,5.1,99.6,A,Pass
+STU0592,16,Female,Private,Graduate,High,2.34,71.7,6.2,8,5,0,0,6,7.5,57.3,D,Pass
+STU0593,17,Male,Public,Graduate,Middle,3.74,100.0,8.66,12,1,1,2,7,7.2,100.0,A,Pass
+STU0594,17,Female,Private,High School,Middle,3.76,91.1,6.52,13,2,1,3,2,6.6,92.7,A,Pass
+STU0595,18,Female,Public,High School,Middle,2.5,96.7,6.6,13,5,1,5,6,6.5,86.2,B,Pass
+STU0596,16,Female,Public,Postgraduate,Low,3.8,81.8,6.02,20,3,1,5,6,4.8,100.0,A,Pass
+STU0597,17,Male,Private,High School,Low,2.59,89.8,7.73,14,5,1,6,10,7.3,92.1,A,Pass
+STU0598,16,Male,Public,High School,Low,2.89,62.3,5.74,11,4,0,5,16,6.6,50.6,D,Pass
+STU0599,17,Female,Public,High School,Middle,2.47,62.2,8.26,14,1,0,2,8,8.1,87.7,B,Pass
+STU0600,15,Female,Public,Postgraduate,Middle,1.35,40.0,4.46,11,1,1,2,28,7.2,23.7,F,Fail
+STU0601,17,Male,Private,Graduate,High,3.72,93.4,4.52,16,3,1,0,0,7.8,88.9,B,Pass
+STU0602,15,Female,Private,Graduate,Low,4.38,100.0,7.74,17,1,1,5,1,7.0,100.0,A,Pass
+STU0603,17,Female,Public,High School,Low,4.27,69.0,6.34,19,1,1,7,11,7.2,94.4,A,Pass
+STU0604,18,Female,Public,Graduate,High,4.73,74.9,5.68,16,3,1,6,10,8.1,100.0,A,Pass
+STU0605,15,Male,Public,Graduate,Low,3.99,65.2,8.1,20,5,1,3,14,6.8,100.0,A,Pass
+STU0606,17,Male,Private,Graduate,Middle,2.7,78.3,5.41,16,2,1,4,3,7.6,97.3,A,Pass
+STU0607,18,Male,Private,Postgraduate,Middle,4.76,95.7,6.14,14,5,1,5,5,6.5,100.0,A,Pass
+STU0608,15,Female,Public,No Education,Middle,1.46,42.7,9.02,19,4,0,0,20,6.8,58.6,D,Pass
+STU0609,18,Female,Public,Graduate,Low,2.15,77.1,9.27,14,4,1,0,7,8.9,100.0,A,Pass
+STU0610,16,Female,Public,No Education,Low,2.05,66.5,9.33,10,1,1,7,9,7.8,98.2,A,Pass
+STU0611,16,Male,Private,Graduate,Low,5.12,81.6,5.99,20,4,1,3,1,6.4,100.0,A,Pass
+STU0612,15,Female,Private,High School,Middle,4.91,86.1,8.72,20,2,1,6,7,7.5,100.0,A,Pass
+STU0613,17,Female,Public,High School,Middle,4.23,74.4,4.79,15,1,1,1,4,5.5,68.9,C,Pass
+STU0614,15,Female,Public,High School,Low,5.11,78.3,4.87,15,4,1,0,8,6.7,72.5,C,Pass
+STU0615,18,Female,Public,Graduate,Middle,2.18,67.8,3.0,12,0,1,2,9,5.9,48.4,D,Pass
+STU0616,17,Male,Private,High School,High,4.02,91.1,9.51,17,0,1,2,0,7.5,100.0,A,Pass
+STU0617,16,Male,Public,Graduate,Low,3.31,80.7,4.94,18,0,1,4,1,6.8,98.6,A,Pass
+STU0618,17,Female,Private,High School,Middle,4.77,82.1,6.27,18,0,0,0,7,7.3,100.0,A,Pass
+STU0619,16,Male,Public,No Education,Middle,3.33,55.4,4.86,15,5,1,6,11,7.9,67.9,C,Pass
+STU0620,17,Male,Public,Graduate,Low,2.92,67.6,7.75,18,0,1,4,7,6.4,99.3,A,Pass
+STU0621,17,Female,Public,High School,Middle,4.31,90.9,5.82,15,1,1,0,0,6.5,98.6,A,Pass
+STU0622,17,Female,Public,High School,Middle,4.81,79.5,4.15,19,3,1,3,2,7.0,90.1,A,Pass
+STU0623,18,Male,Public,Graduate,High,2.5,81.9,7.29,12,5,1,5,14,6.0,82.4,B,Pass
+STU0624,18,Female,Private,High School,High,3.41,99.7,3.92,16,3,1,6,0,7.0,93.2,A,Pass
+STU0625,15,Male,Public,No Education,Middle,1.91,85.8,4.99,12,1,0,0,12,7.0,40.0,F,Fail
+STU0626,15,Female,Public,High School,Middle,0.5,67.4,3.0,11,1,1,6,8,7.3,46.0,D,Pass
+STU0627,16,Male,Public,Postgraduate,Middle,3.8,68.2,3.94,14,2,0,1,6,7.5,62.7,C,Pass
+STU0628,18,Female,Private,Graduate,Middle,4.41,42.7,6.82,20,5,0,6,19,5.1,89.3,B,Pass
+STU0629,16,Male,Private,Graduate,Middle,3.89,73.7,3.0,13,3,1,6,8,5.5,71.3,C,Pass
+STU0630,15,Male,Public,Graduate,Low,0.58,61.3,3.83,9,0,1,2,11,5.6,28.5,F,Fail
+STU0631,16,Male,Private,High School,Middle,2.97,79.3,6.5,20,1,1,3,7,7.1,100.0,A,Pass
+STU0632,15,Female,Public,High School,Middle,0.5,63.7,5.52,14,0,0,5,11,6.7,47.0,D,Pass
+STU0633,18,Male,Public,Graduate,Middle,5.55,76.4,10.0,10,3,1,5,6,4.3,100.0,A,Pass
+STU0634,17,Male,Private,High School,High,1.87,43.4,9.8,11,5,0,2,22,9.3,68.2,C,Pass
+STU0635,18,Female,Private,High School,Low,5.38,66.5,4.94,11,4,1,6,3,4.6,72.3,C,Pass
+STU0636,16,Female,Private,High School,Middle,4.92,86.4,7.5,13,4,1,5,0,7.0,100.0,A,Pass
+STU0637,16,Male,Public,High School,Low,2.15,95.9,7.85,3,1,0,4,0,7.7,84.7,B,Pass
+STU0638,18,Male,Public,Postgraduate,Middle,1.8,68.4,5.42,12,2,1,3,4,6.1,79.3,B,Pass
+STU0639,18,Female,Private,No Education,Middle,4.03,81.5,3.81,12,0,0,1,6,7.8,67.7,C,Pass
+STU0640,15,Female,Public,Graduate,Middle,2.23,85.5,6.48,13,1,1,2,7,5.8,80.2,B,Pass
+STU0641,16,Female,Public,High School,Middle,3.65,63.3,6.19,10,2,1,0,1,7.2,79.0,B,Pass
+STU0642,16,Female,Public,Postgraduate,Middle,2.78,78.3,5.72,14,0,1,0,4,4.4,74.0,C,Pass
+STU0643,18,Female,Public,High School,Middle,0.83,55.9,7.3,10,3,1,0,12,8.4,48.5,D,Pass
+STU0644,17,Male,Public,High School,Middle,0.5,79.0,5.15,15,4,1,7,5,7.0,81.5,B,Pass
+STU0645,16,Female,Private,Graduate,Middle,3.84,78.3,4.43,19,2,0,3,0,5.1,88.6,B,Pass
+STU0646,17,Male,Public,Graduate,High,2.66,76.9,6.7,16,0,0,1,5,7.8,87.6,B,Pass
+STU0647,18,Male,Public,High School,Low,2.67,60.8,7.19,13,1,1,5,7,9.0,77.4,B,Pass
+STU0648,18,Male,Public,High School,Low,4.54,88.7,4.38,20,0,1,1,2,5.9,93.8,A,Pass
+STU0649,15,Female,Private,High School,Middle,5.26,100.0,8.17,12,1,0,1,0,6.7,100.0,A,Pass
+STU0650,16,Male,Public,High School,High,3.09,58.7,3.31,10,4,1,2,11,6.4,46.7,D,Pass
+STU0651,17,Male,Public,High School,Middle,2.99,68.4,5.46,14,4,1,3,6,6.1,66.9,C,Pass
+STU0652,15,Female,Private,Graduate,Low,4.25,80.7,6.04,20,0,1,0,4,5.9,100.0,A,Pass
+STU0653,16,Male,Private,High School,Middle,1.46,80.7,5.35,11,0,1,2,7,6.2,54.3,D,Pass
+STU0654,15,Male,Private,High School,Middle,3.83,67.6,5.48,14,1,1,5,9,6.3,79.8,B,Pass
+STU0655,18,Female,Private,Graduate,Low,4.33,42.5,9.87,11,1,1,1,21,6.6,69.0,C,Pass
+STU0656,16,Male,Public,Postgraduate,Middle,4.52,98.4,4.97,19,2,0,6,0,6.5,100.0,A,Pass
+STU0657,15,Male,Private,Graduate,High,0.59,77.7,10.0,14,2,1,0,10,7.9,86.1,B,Pass
+STU0658,15,Male,Public,No Education,Middle,2.36,45.4,7.29,15,2,0,7,22,7.8,58.3,D,Pass
+STU0659,17,Female,Private,No Education,Middle,2.18,61.9,6.67,11,0,0,3,13,5.2,54.5,D,Pass
+STU0660,15,Female,Private,Postgraduate,Middle,3.65,99.0,7.36,13,5,1,4,0,6.3,100.0,A,Pass
+STU0661,16,Female,Private,High School,Low,4.22,98.9,10.0,11,5,1,7,2,8.5,100.0,A,Pass
+STU0662,16,Male,Private,No Education,High,5.75,95.8,4.71,17,5,1,1,3,7.4,85.7,B,Pass
+STU0663,17,Male,Public,Graduate,Middle,2.76,70.1,4.48,10,5,1,1,14,7.4,53.1,D,Pass
+STU0664,16,Female,Public,Graduate,Middle,2.75,74.0,5.14,10,2,1,1,12,7.3,58.8,D,Pass
+STU0665,18,Male,Private,Graduate,Middle,5.22,78.2,6.56,15,0,0,1,11,6.7,86.1,B,Pass
+STU0666,16,Male,Private,High School,Middle,3.94,93.3,3.39,14,5,1,0,2,7.0,67.1,C,Pass
+STU0667,16,Female,Public,No Education,Middle,5.4,67.6,6.54,15,4,1,3,11,6.5,88.8,B,Pass
+STU0668,15,Female,Public,Postgraduate,Low,3.93,64.2,9.55,16,3,0,7,12,8.0,100.0,A,Pass
+STU0669,15,Male,Public,High School,High,1.76,84.9,6.77,13,4,1,2,0,6.5,90.5,A,Pass
+STU0670,16,Male,Private,Graduate,High,1.5,68.3,5.97,11,0,1,0,15,6.9,51.0,D,Pass
+STU0671,17,Male,Private,Graduate,Middle,1.17,88.7,5.39,12,0,1,3,0,7.9,63.2,C,Pass
+STU0672,15,Female,Public,Graduate,High,4.49,67.9,8.12,13,3,1,7,13,6.6,100.0,A,Pass
+STU0673,17,Female,Public,High School,Low,5.28,79.5,5.01,17,1,0,2,7,6.9,77.3,B,Pass
+STU0674,16,Female,Private,High School,Middle,6.27,69.5,9.82,18,1,1,1,8,6.6,100.0,A,Pass
+STU0675,16,Female,Private,Graduate,Middle,4.76,78.9,9.98,12,1,0,3,8,6.9,100.0,A,Pass
+STU0676,18,Male,Public,Postgraduate,Middle,5.24,58.1,6.96,20,2,1,1,15,6.6,100.0,A,Pass
+STU0677,15,Female,Public,Postgraduate,Middle,2.63,65.1,6.48,11,1,1,6,4,6.4,91.7,A,Pass
+STU0678,16,Female,Public,High School,Middle,1.77,48.3,8.36,13,2,1,3,23,6.2,60.8,C,Pass
+STU0679,18,Female,Public,High School,Low,4.78,89.2,8.47,20,2,1,5,4,6.8,100.0,A,Pass
+STU0680,15,Female,Public,Postgraduate,Middle,4.13,87.6,5.05,18,1,0,4,15,8.2,83.3,B,Pass
+STU0681,16,Female,Private,Graduate,Low,3.66,49.5,5.55,15,1,1,1,19,7.7,43.8,F,Fail
+STU0682,16,Male,Private,Postgraduate,Middle,4.08,96.8,4.12,14,3,1,1,1,5.1,88.5,B,Pass
+STU0683,15,Male,Public,High School,Low,3.98,100.0,7.24,18,5,1,1,0,6.5,100.0,A,Pass
+STU0684,15,Female,Private,Graduate,Low,5.43,81.5,7.7,19,3,1,5,5,6.2,100.0,A,Pass
+STU0685,15,Male,Public,Graduate,Middle,5.44,71.2,4.07,15,2,1,0,9,5.1,74.0,C,Pass
+STU0686,16,Female,Public,Graduate,Middle,4.32,100.0,5.68,13,3,0,2,7,7.3,82.3,B,Pass
+STU0687,16,Female,Public,High School,High,4.77,59.0,4.07,10,2,1,1,18,6.9,46.3,D,Pass
+STU0688,18,Male,Public,No Education,Middle,4.27,77.6,4.88,16,0,1,1,9,9.4,72.0,C,Pass
+STU0689,17,Male,Private,Graduate,Middle,2.81,75.6,7.49,13,2,1,7,16,6.6,93.2,A,Pass
+STU0690,15,Female,Private,High School,High,4.63,98.6,5.18,19,2,1,7,0,6.1,100.0,A,Pass
+STU0691,16,Female,Public,Graduate,Middle,1.41,74.1,5.96,13,3,1,0,10,6.0,56.5,D,Pass
+STU0692,16,Female,Public,Postgraduate,Low,5.08,72.3,3.57,20,5,1,0,15,6.5,70.3,C,Pass
+STU0693,15,Male,Private,High School,Middle,1.71,55.4,6.84,10,0,1,4,16,7.7,50.2,D,Pass
+STU0694,17,Female,Public,Graduate,High,3.93,71.2,6.42,18,4,1,3,2,7.8,100.0,A,Pass
+STU0695,15,Female,Public,High School,Middle,2.23,56.1,5.19,11,4,0,1,20,10.0,38.7,F,Fail
+STU0696,17,Female,Private,Graduate,Low,4.33,78.2,6.16,18,5,1,3,10,5.6,85.6,B,Pass
+STU0697,16,Male,Public,Postgraduate,Low,3.45,66.4,6.82,10,4,1,6,12,7.1,82.6,B,Pass
+STU0698,17,Female,Public,High School,Low,1.11,45.4,5.03,12,0,1,0,17,6.2,21.6,F,Fail
+STU0699,18,Female,Public,No Education,Middle,4.13,95.7,3.84,9,1,1,0,11,7.4,47.7,D,Pass
+STU0700,16,Male,Private,High School,Middle,2.63,64.9,9.75,13,0,1,4,13,8.7,100.0,A,Pass
+STU0701,18,Female,Public,No Education,Low,4.82,59.9,5.36,17,3,1,2,11,8.0,81.9,B,Pass
+STU0702,15,Female,Public,Graduate,High,3.5,72.5,6.33,13,2,1,5,4,5.6,91.2,A,Pass
+STU0703,15,Male,Private,Postgraduate,Middle,4.09,77.8,8.32,12,2,1,5,10,7.8,100.0,A,Pass
+STU0704,15,Female,Public,High School,Middle,2.06,44.5,10.0,15,3,1,5,22,4.5,67.4,C,Pass
+STU0705,17,Male,Private,High School,High,2.62,77.3,4.26,13,3,1,0,7,4.1,48.1,D,Pass
+STU0706,16,Male,Public,High School,Low,2.81,57.2,7.31,12,2,1,1,10,6.7,61.4,C,Pass
+STU0707,15,Female,Private,Graduate,Middle,4.79,100.0,5.23,16,5,0,7,7,7.7,100.0,A,Pass
+STU0708,15,Female,Public,No Education,Middle,6.02,90.4,5.53,20,1,1,4,0,7.4,100.0,A,Pass
+STU0709,16,Female,Public,Graduate,High,2.29,65.4,5.2,17,1,0,2,20,9.3,58.6,D,Pass
+STU0710,15,Female,Public,Graduate,Middle,5.12,68.7,4.47,20,1,1,6,6,7.1,100.0,A,Pass
+STU0711,18,Male,Public,Graduate,Low,0.5,64.4,6.43,12,3,1,5,4,6.9,71.2,C,Pass
+STU0712,16,Female,Private,High School,High,1.71,78.8,3.85,13,2,1,4,1,8.4,62.3,C,Pass
+STU0713,16,Male,Private,Graduate,Low,2.06,70.3,8.2,6,5,1,7,3,6.6,90.7,A,Pass
+STU0714,16,Female,Public,No Education,High,1.47,65.7,6.6,10,2,1,7,9,7.5,74.7,C,Pass
+STU0715,18,Female,Public,High School,High,1.12,68.7,7.26,10,2,0,0,7,7.5,57.9,D,Pass
+STU0716,16,Female,Private,Postgraduate,Low,4.12,67.8,5.66,10,5,0,5,15,5.8,56.9,D,Pass
+STU0717,18,Male,Private,Graduate,Middle,3.18,68.9,5.84,11,0,0,2,14,7.5,67.7,C,Pass
+STU0718,16,Female,Public,No Education,Low,4.07,45.4,7.02,9,5,1,6,15,9.6,68.6,C,Pass
+STU0719,17,Female,Public,High School,Middle,4.54,92.7,4.4,16,0,1,3,18,8.4,59.1,D,Pass
+STU0720,15,Female,Public,High School,Middle,3.9,80.7,5.86,17,4,1,7,5,6.0,100.0,A,Pass
+STU0721,17,Female,Private,High School,Middle,4.49,66.4,4.95,19,0,1,7,10,9.8,91.3,A,Pass
+STU0722,15,Male,Public,High School,High,3.4,99.7,4.9,16,1,0,6,0,7.8,100.0,A,Pass
+STU0723,18,Female,Public,No Education,Middle,1.72,71.0,3.0,9,1,1,7,8,7.5,47.3,D,Pass
+STU0724,17,Male,Public,Graduate,Middle,5.09,64.2,8.91,11,5,0,2,12,6.9,93.6,A,Pass
+STU0725,16,Male,Private,Graduate,High,2.62,85.2,5.26,8,1,0,6,0,7.8,82.8,B,Pass
+STU0726,15,Male,Public,Graduate,High,2.1,76.8,8.59,9,1,0,1,4,7.1,81.4,B,Pass
+STU0727,15,Male,Public,Graduate,Low,3.23,80.1,8.42,12,4,1,5,8,7.0,100.0,A,Pass
+STU0728,17,Male,Public,No Education,High,2.13,64.5,4.19,12,1,1,5,8,6.8,68.4,C,Pass
+STU0729,18,Male,Public,Postgraduate,Low,2.87,79.9,4.54,11,3,1,3,2,8.2,70.2,C,Pass
+STU0730,17,Female,Public,Graduate,High,4.02,72.6,10.0,16,3,1,6,12,8.0,100.0,A,Pass
+STU0731,18,Male,Public,Graduate,Low,4.02,84.9,9.65,14,3,1,3,0,6.8,100.0,A,Pass
+STU0732,18,Male,Public,Graduate,Low,2.15,42.4,6.44,13,0,0,6,12,5.2,59.2,D,Pass
+STU0733,15,Male,Public,Postgraduate,Middle,2.77,66.3,6.96,17,5,1,5,11,7.0,100.0,A,Pass
+STU0734,17,Female,Public,Graduate,Middle,5.11,100.0,5.36,13,5,1,1,4,6.1,99.8,A,Pass
+STU0735,17,Female,Private,High School,Middle,4.24,65.7,7.28,17,2,1,7,12,6.4,100.0,A,Pass
+STU0736,18,Male,Private,Graduate,Low,6.61,75.3,5.21,18,4,1,6,6,6.9,100.0,A,Pass
+STU0737,17,Female,Public,Graduate,Middle,5.27,73.6,3.0,16,3,1,3,6,5.7,93.4,A,Pass
+STU0738,16,Male,Private,Graduate,High,5.22,61.9,4.12,19,3,1,0,16,5.1,64.2,C,Pass
+STU0739,16,Male,Public,Graduate,Middle,1.42,40.0,6.54,15,1,1,7,22,7.4,48.6,D,Pass
+STU0740,17,Female,Public,No Education,Low,4.65,75.0,4.46,13,3,1,5,8,7.0,84.7,B,Pass
+STU0741,17,Male,Public,High School,Middle,3.42,76.8,6.38,14,1,0,2,6,7.0,78.2,B,Pass
+STU0742,18,Female,Public,Postgraduate,Low,2.67,71.7,4.57,14,1,1,2,9,7.6,68.3,C,Pass
+STU0743,16,Female,Private,Graduate,High,3.75,73.6,5.09,14,2,1,7,4,6.2,100.0,A,Pass
+STU0744,16,Male,Private,Graduate,High,4.92,79.9,8.04,18,0,1,1,5,7.4,100.0,A,Pass
+STU0745,15,Male,Private,High School,Middle,4.25,92.6,6.95,16,1,1,0,0,8.6,100.0,A,Pass
+STU0746,18,Female,Public,High School,Middle,2.18,68.2,6.48,18,1,1,3,9,6.7,81.5,B,Pass
+STU0747,15,Male,Public,Postgraduate,Middle,4.61,69.7,8.08,11,5,1,6,7,9.3,100.0,A,Pass
+STU0748,16,Male,Public,Graduate,Middle,2.54,67.9,7.37,13,2,0,5,12,7.1,66.2,C,Pass
+STU0749,18,Male,Public,Graduate,High,3.83,84.7,9.1,12,1,0,2,9,6.0,100.0,A,Pass
+STU0750,17,Female,Public,Graduate,Middle,3.04,94.8,5.67,16,4,1,2,0,8.0,85.3,B,Pass
+STU0751,18,Female,Public,Graduate,Middle,3.17,64.6,5.73,9,0,1,2,7,6.9,68.9,C,Pass
+STU0752,17,Male,Public,High School,Middle,4.65,79.9,4.16,17,4,1,2,10,8.3,87.1,B,Pass
+STU0753,17,Female,Public,Graduate,Middle,1.94,75.4,5.73,11,3,0,4,8,7.5,66.4,C,Pass
+STU0754,18,Female,Private,High School,High,6.42,68.9,8.24,16,0,0,1,8,6.6,100.0,A,Pass
+STU0755,17,Female,Private,High School,Middle,0.77,67.1,8.84,7,3,0,3,17,8.8,63.0,C,Pass
+STU0756,15,Female,Private,Graduate,Middle,2.6,50.3,8.23,12,5,1,5,12,6.4,86.5,B,Pass
+STU0757,16,Female,Public,Postgraduate,Low,4.06,50.1,3.27,18,1,1,5,5,4.4,79.4,B,Pass
+STU0758,17,Male,Public,No Education,Middle,4.38,83.1,8.45,15,2,1,5,2,8.1,100.0,A,Pass
+STU0759,15,Male,Public,Graduate,Middle,3.35,68.8,3.19,16,4,1,3,17,7.4,40.8,F,Fail
+STU0760,17,Male,Private,High School,Low,3.41,77.8,8.12,19,3,1,1,5,8.5,100.0,A,Pass
+STU0761,16,Female,Public,High School,Low,4.12,76.6,5.84,16,1,1,7,4,5.9,97.5,A,Pass
+STU0762,15,Female,Public,No Education,Middle,3.15,59.3,7.76,12,4,0,7,12,6.7,74.8,C,Pass
+STU0763,16,Male,Private,High School,Middle,5.59,80.6,4.1,18,4,1,0,11,6.6,80.7,B,Pass
+STU0764,16,Female,Public,Graduate,Middle,4.76,60.3,8.61,14,5,1,6,12,8.1,100.0,A,Pass
+STU0765,15,Male,Public,No Education,Low,4.81,99.8,3.86,15,5,0,7,3,7.8,86.0,B,Pass
+STU0766,15,Male,Public,Graduate,Middle,2.05,50.3,5.3,8,3,0,6,14,7.3,39.0,F,Fail
+STU0767,15,Male,Public,Postgraduate,Low,3.38,71.7,4.7,17,1,1,1,11,7.3,74.3,C,Pass
+STU0768,18,Female,Public,High School,Middle,3.05,58.0,3.34,13,2,1,2,13,5.6,37.4,F,Fail
+STU0769,15,Female,Public,Graduate,Low,1.99,79.0,6.67,13,3,1,6,4,7.9,91.0,A,Pass
+STU0770,15,Male,Public,High School,Low,4.04,71.6,9.75,12,4,0,2,10,7.9,99.6,A,Pass
+STU0771,15,Male,Public,Graduate,Low,2.69,64.8,10.0,15,4,1,1,8,9.7,100.0,A,Pass
+STU0772,15,Male,Private,High School,Middle,4.48,90.7,6.67,13,0,1,1,0,7.6,100.0,A,Pass
+STU0773,17,Male,Public,High School,Low,1.89,70.6,8.51,12,1,1,3,9,7.8,84.2,B,Pass
+STU0774,18,Female,Public,High School,Middle,6.08,90.5,6.92,20,0,1,3,0,7.6,100.0,A,Pass
+STU0775,16,Female,Public,No Education,Middle,2.16,56.2,7.4,15,5,0,4,16,6.2,73.6,C,Pass
+STU0776,15,Male,Private,High School,Middle,3.83,54.9,5.88,15,2,0,5,13,8.5,78.6,B,Pass
+STU0777,17,Male,Public,Graduate,Middle,4.69,80.2,6.85,11,3,0,4,13,6.9,87.5,B,Pass
+STU0778,17,Female,Public,Postgraduate,High,2.64,67.6,7.47,20,4,1,5,8,6.8,100.0,A,Pass
+STU0779,17,Female,Private,Graduate,Low,4.78,88.2,5.46,20,1,1,2,3,6.8,100.0,A,Pass
+STU0780,16,Male,Private,Graduate,Middle,1.66,68.3,6.36,14,4,1,4,2,6.9,84.2,B,Pass
+STU0781,15,Male,Public,High School,Low,5.68,84.6,6.39,15,5,1,4,0,6.4,100.0,A,Pass
+STU0782,18,Male,Private,High School,Low,3.52,50.7,7.99,14,0,1,0,6,7.3,75.6,B,Pass
+STU0783,18,Female,Public,High School,Middle,2.61,97.3,4.58,12,0,1,1,6,6.9,68.6,C,Pass
+STU0784,17,Female,Public,High School,Middle,3.05,71.2,6.41,18,3,1,3,6,6.8,100.0,A,Pass
+STU0785,16,Female,Public,Graduate,High,4.71,89.1,9.94,17,1,1,4,10,7.6,100.0,A,Pass
+STU0786,16,Male,Public,Graduate,Middle,2.62,59.8,8.6,11,5,0,3,0,7.1,91.3,A,Pass
+STU0787,16,Male,Private,High School,High,2.38,76.2,8.93,12,1,1,5,15,6.3,86.3,B,Pass
+STU0788,18,Female,Public,High School,Low,3.17,54.5,6.54,17,3,1,4,13,6.1,81.8,B,Pass
+STU0789,17,Female,Public,Graduate,Low,1.73,76.5,7.08,17,5,0,5,9,7.1,89.7,B,Pass
+STU0790,15,Male,Private,Graduate,Low,6.23,77.9,8.3,20,5,1,7,1,6.1,100.0,A,Pass
+STU0791,18,Female,Private,High School,Low,2.65,72.9,9.31,16,0,1,7,11,6.0,94.4,A,Pass
+STU0792,17,Female,Public,Postgraduate,Middle,4.75,89.2,3.0,15,0,0,4,1,6.0,90.4,A,Pass
+STU0793,17,Male,Public,Postgraduate,Middle,3.81,57.5,4.13,5,0,0,7,7,7.3,51.3,D,Pass
+STU0794,15,Female,Public,High School,Low,2.02,60.3,8.86,14,4,1,6,6,8.4,100.0,A,Pass
+STU0795,15,Male,Private,High School,High,3.49,81.8,6.0,14,2,0,2,0,7.4,85.8,B,Pass
+STU0796,15,Male,Private,Graduate,High,4.68,100.0,5.29,16,0,1,0,2,8.1,100.0,A,Pass
+STU0797,16,Male,Private,Postgraduate,Low,3.22,72.1,4.24,14,2,0,5,5,6.9,75.9,B,Pass
+STU0798,15,Male,Public,Postgraduate,Low,5.29,89.2,5.5,13,2,0,1,0,7.2,93.4,A,Pass
+STU0799,17,Male,Public,High School,Low,5.03,78.0,3.98,18,1,1,1,8,9.0,73.7,C,Pass
+STU0800,15,Male,Public,High School,Low,4.88,100.0,10.0,18,3,1,2,0,8.0,100.0,A,Pass
+STU0801,17,Male,Public,Graduate,Low,2.81,46.7,6.46,16,4,0,7,23,8.1,58.4,D,Pass
+STU0802,18,Female,Public,Graduate,Middle,1.88,71.6,6.4,15,2,1,2,18,6.7,70.9,C,Pass
+STU0803,16,Male,Private,High School,Low,2.58,47.9,7.56,15,4,0,7,9,7.0,75.7,B,Pass
+STU0804,18,Male,Public,Postgraduate,Middle,3.79,40.9,8.23,14,1,0,6,23,7.5,80.2,B,Pass
+STU0805,18,Female,Public,Graduate,High,4.32,81.9,8.2,15,0,1,1,7,6.3,100.0,A,Pass
+STU0806,17,Female,Private,Graduate,Middle,0.5,68.1,8.43,11,5,1,5,7,4.2,80.7,B,Pass
+STU0807,18,Female,Public,Postgraduate,High,3.49,70.7,5.36,15,2,1,1,7,7.5,78.3,B,Pass
+STU0808,17,Male,Private,Graduate,Low,3.74,74.1,5.96,18,3,1,0,11,8.2,80.0,B,Pass
+STU0809,15,Female,Public,High School,Middle,3.08,98.8,7.88,16,5,1,4,0,7.1,100.0,A,Pass
+STU0810,15,Male,Public,Graduate,Middle,5.44,76.9,5.55,20,1,1,7,0,6.3,100.0,A,Pass
+STU0811,17,Male,Public,High School,Low,4.13,84.5,6.49,20,4,0,0,15,6.6,78.0,B,Pass
+STU0812,15,Male,Public,Graduate,Low,5.47,71.2,7.22,17,0,0,6,11,4.6,100.0,A,Pass
+STU0813,16,Male,Private,High School,Middle,3.18,78.5,7.91,3,4,1,6,6,6.6,92.1,A,Pass
+STU0814,18,Female,Public,Graduate,Middle,4.91,75.6,3.3,20,3,1,7,4,5.7,92.4,A,Pass
+STU0815,16,Female,Public,High School,Middle,5.95,76.2,7.79,16,2,1,7,6,6.2,100.0,A,Pass
+STU0816,18,Male,Public,High School,Middle,5.47,100.0,6.08,14,3,1,1,6,5.6,95.0,A,Pass
+STU0817,15,Male,Public,High School,Middle,1.86,87.7,7.77,11,4,1,4,5,5.5,82.7,B,Pass
+STU0818,16,Male,Private,No Education,Low,3.12,75.9,7.9,13,4,0,1,9,5.8,64.9,C,Pass
+STU0819,15,Female,Public,Graduate,Middle,2.98,40.0,9.39,16,5,1,0,12,7.8,90.1,A,Pass
+STU0820,18,Male,Private,Graduate,Low,4.23,71.8,8.94,11,3,1,0,7,6.4,96.6,A,Pass
+STU0821,17,Male,Private,Graduate,Low,4.53,100.0,8.92,13,3,1,7,0,5.7,100.0,A,Pass
+STU0822,17,Female,Public,High School,High,2.24,67.8,9.1,14,3,0,5,13,7.9,92.3,A,Pass
+STU0823,16,Female,Private,No Education,Middle,3.6,91.9,7.02,16,0,1,5,0,7.2,100.0,A,Pass
+STU0824,15,Male,Public,No Education,Middle,0.5,87.6,6.56,13,4,1,0,8,4.2,61.1,C,Pass
+STU0825,15,Female,Public,High School,Middle,5.66,84.8,8.07,15,1,1,4,0,8.2,100.0,A,Pass
+STU0826,16,Female,Public,Postgraduate,Middle,2.73,60.1,7.82,11,0,1,7,12,7.1,87.1,B,Pass
+STU0827,17,Male,Private,High School,Low,3.58,40.3,5.94,13,0,1,6,17,7.9,73.9,C,Pass
+STU0828,18,Female,Private,High School,Low,3.04,83.9,7.23,15,0,1,5,0,6.7,100.0,A,Pass
+STU0829,16,Male,Public,High School,Low,5.22,67.9,6.44,20,5,1,5,9,8.9,100.0,A,Pass
+STU0830,18,Female,Private,High School,Middle,0.5,68.6,4.96,5,1,0,3,6,6.5,39.0,F,Fail
+STU0831,17,Male,Public,Graduate,Middle,3.48,56.2,8.82,14,3,1,3,20,4.0,63.2,C,Pass
+STU0832,15,Male,Public,Graduate,Middle,3.34,70.5,6.6,10,5,1,5,7,5.9,82.8,B,Pass
+STU0833,17,Male,Public,High School,Middle,2.82,73.5,10.0,9,4,1,1,10,7.6,87.6,B,Pass
+STU0834,16,Female,Private,No Education,High,6.09,86.8,3.57,20,2,0,4,0,7.2,100.0,A,Pass
+STU0835,15,Male,Public,High School,Low,2.17,54.3,5.5,15,5,1,2,15,6.9,49.6,D,Pass
+STU0836,16,Female,Public,High School,Low,4.66,96.4,6.56,17,2,0,5,0,5.8,100.0,A,Pass
+STU0837,16,Male,Public,High School,Middle,4.03,67.6,8.55,18,4,0,3,6,7.0,100.0,A,Pass
+STU0838,17,Male,Public,Postgraduate,Middle,5.39,55.6,7.22,15,1,1,4,28,7.0,73.3,C,Pass
+STU0839,16,Female,Public,Graduate,High,2.5,70.4,7.06,12,2,0,4,7,7.0,79.2,B,Pass
+STU0840,17,Male,Public,Graduate,Low,2.4,72.2,4.47,20,0,0,3,7,7.6,76.4,B,Pass
+STU0841,15,Male,Private,High School,High,5.14,82.3,4.42,16,5,1,7,10,7.2,82.4,B,Pass
+STU0842,17,Female,Public,High School,High,4.14,97.3,7.08,17,2,0,4,0,6.7,100.0,A,Pass
+STU0843,15,Male,Public,Graduate,Low,1.18,64.5,4.04,12,4,1,7,13,5.8,43.8,F,Fail
+STU0844,17,Male,Public,Graduate,Middle,2.69,70.8,5.54,8,0,0,4,11,8.6,67.5,C,Pass
+STU0845,18,Male,Private,Graduate,Middle,4.08,60.2,7.4,9,2,1,3,13,9.4,82.4,B,Pass
+STU0846,18,Male,Private,High School,High,4.76,91.1,4.73,14,4,1,0,14,9.1,66.9,C,Pass
+STU0847,16,Female,Public,Graduate,Low,2.48,74.7,9.39,16,1,1,5,4,7.8,100.0,A,Pass
+STU0848,17,Female,Private,High School,Middle,0.5,59.7,8.7,13,4,1,1,20,5.0,59.2,D,Pass
+STU0849,17,Male,Public,Postgraduate,Middle,4.28,48.8,3.67,18,1,0,7,18,4.8,61.8,C,Pass
+STU0850,15,Female,Public,Graduate,Middle,1.67,91.2,4.82,9,0,0,2,7,6.3,57.3,D,Pass
+STU0851,16,Male,Public,Graduate,Middle,0.5,47.6,3.0,16,4,1,1,17,6.9,23.2,F,Fail
+STU0852,17,Female,Public,High School,Middle,0.5,57.1,5.09,8,3,1,0,22,6.9,22.1,F,Fail
+STU0853,16,Male,Public,Graduate,High,4.72,84.0,7.88,17,5,0,6,3,7.2,100.0,A,Pass
+STU0854,18,Male,Private,High School,High,3.69,57.6,5.75,15,3,1,0,15,5.3,62.3,C,Pass
+STU0855,17,Male,Private,High School,High,3.16,51.6,7.33,14,3,0,4,21,8.9,67.2,C,Pass
+STU0856,17,Male,Private,High School,Low,5.58,49.4,3.76,20,3,1,1,12,8.8,62.3,C,Pass
+STU0857,16,Male,Public,Graduate,Middle,4.46,88.7,7.94,14,5,1,7,8,5.4,100.0,A,Pass
+STU0858,17,Male,Public,High School,Low,5.92,74.1,5.5,13,3,1,7,8,4.8,100.0,A,Pass
+STU0859,16,Female,Private,High School,Middle,1.41,93.7,6.52,12,1,1,0,0,6.9,77.5,B,Pass
+STU0860,17,Male,Public,Postgraduate,Middle,3.45,59.9,6.33,13,4,1,1,5,8.5,83.0,B,Pass
+STU0861,15,Female,Public,High School,Middle,1.07,53.9,4.21,20,0,0,0,13,7.0,46.1,D,Pass
+STU0862,16,Male,Public,Graduate,Middle,3.16,65.5,4.42,16,3,1,2,15,7.3,66.8,C,Pass
+STU0863,17,Female,Private,High School,High,3.13,77.5,8.24,13,3,1,0,0,6.5,100.0,A,Pass
+STU0864,18,Female,Public,No Education,Low,4.44,70.8,7.22,12,0,1,1,10,7.2,73.6,C,Pass
+STU0865,17,Female,Public,Graduate,Middle,3.57,84.4,8.39,9,0,1,4,9,8.1,100.0,A,Pass
+STU0866,18,Male,Private,No Education,Middle,4.44,63.1,7.08,13,3,1,1,5,7.5,89.7,B,Pass
+STU0867,18,Male,Public,Graduate,Low,4.56,57.4,6.76,16,1,1,3,10,7.7,90.9,A,Pass
+STU0868,15,Female,Public,Graduate,Low,6.73,57.7,3.39,20,0,1,1,16,5.0,67.0,C,Pass
+STU0869,16,Male,Public,Graduate,High,3.03,40.2,6.01,17,4,1,2,22,9.6,60.3,C,Pass
+STU0870,17,Female,Public,Graduate,High,2.09,63.0,6.45,13,4,1,5,19,5.0,55.0,D,Pass
+STU0871,15,Male,Private,High School,High,3.87,71.6,10.0,14,1,0,2,6,7.2,100.0,A,Pass
+STU0872,17,Female,Public,No Education,High,2.3,61.9,7.74,14,5,1,2,7,6.8,86.6,B,Pass
+STU0873,18,Female,Public,Graduate,Low,5.72,100.0,9.26,16,2,1,0,8,6.9,100.0,A,Pass
+STU0874,16,Male,Private,Graduate,Middle,3.08,92.1,7.58,19,1,1,2,0,8.0,100.0,A,Pass
+STU0875,17,Female,Private,Graduate,Middle,2.65,67.4,5.22,13,3,1,1,12,6.2,62.3,C,Pass
+STU0876,17,Male,Private,Graduate,Middle,2.79,46.0,6.71,13,2,1,7,27,6.5,64.0,C,Pass
+STU0877,18,Female,Public,Graduate,Middle,4.58,69.7,6.93,9,3,0,5,13,5.6,75.8,B,Pass
+STU0878,17,Female,Public,Graduate,Middle,3.26,65.3,4.81,14,4,1,7,14,8.3,79.3,B,Pass
+STU0879,17,Male,Private,High School,Middle,2.54,62.3,5.81,16,0,0,6,18,7.3,67.3,C,Pass
+STU0880,18,Male,Private,Graduate,Middle,6.0,72.0,6.13,14,3,1,4,11,7.8,97.0,A,Pass
+STU0881,15,Male,Public,Graduate,Low,2.22,61.3,9.39,11,4,1,6,16,8.0,84.2,B,Pass
+STU0882,18,Female,Public,High School,Middle,3.55,69.4,3.0,17,1,0,2,7,9.4,58.5,D,Pass
+STU0883,15,Male,Public,Postgraduate,Middle,4.48,68.4,8.67,11,3,0,7,15,9.2,97.5,A,Pass
+STU0884,16,Female,Private,Postgraduate,Middle,1.05,70.8,4.81,15,4,1,1,11,7.4,58.6,D,Pass
+STU0885,15,Female,Public,Graduate,Low,4.22,82.6,4.03,14,0,1,0,0,7.2,81.3,B,Pass
+STU0886,15,Male,Public,No Education,Middle,1.92,56.6,8.62,11,3,0,0,14,6.4,65.0,C,Pass
+STU0887,16,Male,Public,High School,Low,4.73,97.8,7.82,13,5,1,4,0,7.9,100.0,A,Pass
+STU0888,15,Female,Private,Graduate,Middle,2.06,56.0,8.76,14,4,1,4,17,7.8,84.1,B,Pass
+STU0889,18,Female,Private,Postgraduate,Middle,4.54,53.9,7.94,20,3,0,1,13,6.1,94.0,A,Pass
+STU0890,15,Male,Public,High School,Middle,5.16,85.7,10.0,19,0,1,4,14,7.9,100.0,A,Pass
+STU0891,16,Male,Private,No Education,Low,4.79,66.6,7.51,13,3,1,7,12,8.2,93.0,A,Pass
+STU0892,18,Male,Private,Postgraduate,Middle,3.88,81.0,6.22,18,3,1,7,10,5.7,100.0,A,Pass
+STU0893,16,Male,Public,High School,Middle,3.15,40.0,7.12,13,5,1,4,13,7.2,73.5,C,Pass
+STU0894,16,Male,Public,Graduate,Middle,2.64,93.3,8.74,18,4,0,0,5,6.9,100.0,A,Pass
+STU0895,17,Female,Public,Postgraduate,Middle,5.71,91.7,5.1,20,2,1,1,0,7.0,100.0,A,Pass
+STU0896,17,Female,Private,No Education,Middle,2.45,49.3,5.33,4,3,0,5,21,5.9,26.2,F,Fail
+STU0897,16,Female,Public,Graduate,Middle,1.94,48.2,5.94,10,2,1,4,10,4.8,48.6,D,Pass
+STU0898,16,Female,Public,No Education,Low,4.5,100.0,3.0,19,1,1,1,1,6.1,74.2,C,Pass
+STU0899,16,Male,Private,High School,Low,2.31,60.4,6.75,14,3,1,2,6,5.9,65.2,C,Pass
+STU0900,17,Male,Public,Graduate,Middle,2.07,58.2,3.1,10,2,1,0,13,7.4,24.9,F,Fail
+STU0901,17,Male,Private,High School,Middle,1.33,40.0,6.6,10,1,1,5,28,7.4,39.5,F,Fail
+STU0902,15,Female,Public,Postgraduate,Middle,2.78,67.6,8.06,8,5,1,7,13,7.4,89.8,B,Pass
+STU0903,15,Female,Public,Graduate,Low,3.38,71.2,5.64,14,4,1,0,8,5.3,64.3,C,Pass
+STU0904,16,Male,Private,High School,Low,3.86,86.8,9.52,20,3,0,0,0,5.7,100.0,A,Pass
+STU0905,18,Male,Private,High School,Middle,4.93,58.3,3.87,19,4,0,7,10,6.3,81.7,B,Pass
+STU0906,18,Female,Public,High School,Low,4.29,54.6,8.64,20,1,1,3,16,7.0,100.0,A,Pass
+STU0907,17,Female,Private,High School,Middle,3.21,80.9,7.72,17,4,1,1,3,6.6,100.0,A,Pass
+STU0908,17,Male,Private,No Education,Low,3.2,89.2,3.41,17,4,1,7,10,7.4,66.3,C,Pass
+STU0909,17,Male,Public,High School,Middle,4.27,53.7,10.0,20,0,1,2,14,8.2,100.0,A,Pass
+STU0910,16,Female,Private,Graduate,High,5.41,96.9,6.39,18,1,1,4,6,5.8,100.0,A,Pass
+STU0911,18,Male,Public,Graduate,Low,3.69,76.1,4.92,14,4,1,2,8,5.8,65.9,C,Pass
+STU0912,15,Male,Public,Graduate,Middle,2.8,89.3,3.97,17,2,1,1,2,7.2,81.2,B,Pass
+STU0913,16,Male,Public,Graduate,Low,2.01,69.5,6.1,17,1,1,7,7,6.9,100.0,A,Pass
+STU0914,15,Female,Private,No Education,Middle,1.33,40.0,6.27,10,0,1,0,13,7.9,34.6,F,Fail
+STU0915,15,Female,Private,High School,Middle,4.5,75.7,6.68,14,3,1,7,13,7.0,100.0,A,Pass
+STU0916,16,Female,Public,Graduate,Middle,4.37,93.5,5.96,16,5,1,3,0,9.1,100.0,A,Pass
+STU0917,15,Female,Public,Graduate,Middle,4.37,64.2,7.64,18,4,1,1,13,5.1,81.7,B,Pass
+STU0918,18,Female,Public,No Education,High,3.31,68.6,5.8,17,2,1,5,7,8.0,84.3,B,Pass
+STU0919,15,Female,Public,Graduate,Low,5.61,78.7,3.02,13,0,1,5,1,7.2,81.0,B,Pass
+STU0920,18,Female,Private,Graduate,Low,2.77,40.0,6.23,19,1,1,1,21,5.3,45.0,D,Pass
+STU0921,18,Male,Private,Graduate,High,4.93,100.0,3.0,14,5,0,4,0,4.5,85.4,B,Pass
+STU0922,18,Male,Public,No Education,Middle,3.44,61.3,7.14,14,5,1,2,10,5.6,82.1,B,Pass
+STU0923,17,Male,Private,Graduate,High,2.59,79.8,4.74,11,4,1,2,0,8.5,73.5,C,Pass
+STU0924,15,Male,Public,Graduate,Middle,4.39,76.4,6.79,20,0,1,4,5,8.3,100.0,A,Pass
+STU0925,16,Male,Private,Graduate,High,4.11,95.7,8.87,16,0,1,3,1,6.8,100.0,A,Pass
+STU0926,16,Male,Private,Graduate,Middle,4.04,82.7,4.79,13,2,0,0,4,6.6,69.0,C,Pass
+STU0927,15,Male,Public,Graduate,Middle,3.62,71.8,8.41,17,3,0,6,13,6.0,100.0,A,Pass
+STU0928,17,Female,Public,Graduate,High,3.44,61.4,5.72,17,3,0,6,12,6.8,72.1,C,Pass
+STU0929,17,Female,Private,High School,Middle,7.08,97.7,9.66,18,3,1,0,16,6.4,100.0,A,Pass
+STU0930,18,Male,Public,Graduate,Low,5.28,52.2,5.84,19,5,1,5,16,9.1,87.5,B,Pass
+STU0931,15,Male,Public,Graduate,Low,4.58,87.9,4.99,13,5,1,3,0,5.5,99.9,A,Pass
+STU0932,15,Female,Public,Graduate,Low,3.67,59.0,7.74,13,1,1,4,11,7.5,82.3,B,Pass
+STU0933,16,Male,Public,High School,Low,5.01,98.3,5.72,10,5,0,6,0,9.1,95.7,A,Pass
+STU0934,15,Male,Public,High School,Middle,4.28,79.8,4.99,11,5,1,1,3,7.9,79.1,B,Pass
+STU0935,17,Female,Private,Postgraduate,Middle,3.54,84.8,5.64,20,0,0,7,5,5.7,100.0,A,Pass
+STU0936,15,Male,Private,Graduate,Middle,3.04,74.9,6.42,19,1,1,2,4,5.1,89.0,B,Pass
+STU0937,16,Female,Public,Postgraduate,Middle,3.38,48.4,8.92,15,0,1,7,17,7.3,95.8,A,Pass
+STU0938,18,Male,Private,Graduate,Middle,0.5,53.1,3.02,16,2,1,1,5,7.2,46.2,D,Pass
+STU0939,16,Female,Public,Graduate,Low,3.82,86.0,6.54,14,2,1,2,10,8.5,82.0,B,Pass
+STU0940,16,Female,Private,Graduate,Low,2.77,75.3,7.62,13,1,1,1,0,7.7,96.0,A,Pass
+STU0941,18,Female,Private,Postgraduate,Low,5.89,99.9,6.85,18,1,0,4,0,6.4,100.0,A,Pass
+STU0942,16,Male,Public,Graduate,Middle,3.53,81.1,8.86,14,5,0,4,2,6.3,100.0,A,Pass
+STU0943,16,Female,Private,Graduate,Low,1.72,55.1,6.37,12,2,1,3,15,5.4,57.9,D,Pass
+STU0944,15,Male,Public,High School,Low,3.43,62.8,6.17,18,4,1,1,10,7.2,81.5,B,Pass
+STU0945,15,Male,Public,Graduate,Middle,1.93,71.8,7.57,13,3,0,1,10,5.3,68.5,C,Pass
+STU0946,18,Male,Private,Graduate,High,4.21,42.4,6.68,17,5,1,3,23,8.1,77.4,B,Pass
+STU0947,15,Male,Public,High School,Low,3.94,100.0,5.8,18,3,1,3,4,7.7,100.0,A,Pass
+STU0948,15,Female,Public,High School,Middle,4.94,85.9,7.43,17,2,1,7,4,7.7,100.0,A,Pass
+STU0949,16,Female,Public,High School,Middle,2.31,89.8,5.33,10,3,1,4,5,5.4,71.1,C,Pass
+STU0950,17,Male,Private,High School,Middle,3.55,51.4,5.4,11,4,1,7,24,6.8,54.5,D,Pass
+STU0951,15,Male,Public,High School,High,1.45,87.5,5.55,12,4,1,4,8,6.5,60.6,C,Pass
+STU0952,17,Female,Public,High School,Low,4.55,100.0,8.94,15,0,1,7,0,7.1,100.0,A,Pass
+STU0953,15,Male,Private,Postgraduate,Low,4.28,57.5,3.0,16,1,1,5,19,7.6,53.4,D,Pass
+STU0954,15,Female,Private,Graduate,High,4.24,88.8,7.21,15,3,1,1,5,6.4,100.0,A,Pass
+STU0955,18,Male,Public,High School,Middle,3.5,75.0,6.56,20,4,1,7,3,6.4,100.0,A,Pass
+STU0956,18,Male,Public,No Education,Middle,4.12,53.7,3.47,11,1,0,7,13,7.8,53.8,D,Pass
+STU0957,18,Female,Public,Graduate,Middle,5.91,89.6,7.06,11,1,0,4,0,5.6,100.0,A,Pass
+STU0958,17,Male,Public,High School,Middle,3.07,86.2,7.36,15,0,1,6,0,6.1,100.0,A,Pass
+STU0959,16,Female,Public,Graduate,High,3.71,66.6,7.56,14,1,1,4,5,7.0,88.6,B,Pass
+STU0960,15,Male,Private,Graduate,High,1.87,87.6,3.0,13,1,1,1,4,8.1,55.0,D,Pass
+STU0961,15,Male,Private,Graduate,Middle,2.2,46.1,8.96,15,5,0,3,17,5.8,76.8,B,Pass
+STU0962,15,Male,Public,High School,Low,3.65,53.0,5.17,19,2,1,1,7,9.1,74.9,C,Pass
+STU0963,17,Female,Public,Graduate,High,5.16,82.0,7.74,12,0,1,6,0,5.4,100.0,A,Pass
+STU0964,18,Male,Private,High School,Low,3.12,74.2,7.83,12,0,1,0,15,8.9,71.0,C,Pass
+STU0965,16,Male,Public,Postgraduate,Low,3.15,63.2,4.92,15,3,0,1,12,8.4,51.0,D,Pass
+STU0966,17,Male,Private,Graduate,High,2.89,85.3,7.69,16,1,1,0,12,5.3,96.2,A,Pass
+STU0967,18,Male,Public,High School,Low,2.7,80.6,5.81,20,3,0,7,13,5.0,74.7,C,Pass
+STU0968,17,Female,Public,High School,Low,3.94,89.2,3.0,18,5,1,1,7,7.9,68.6,C,Pass
+STU0969,16,Female,Private,High School,Low,1.25,66.4,8.6,12,4,1,6,10,6.5,76.6,B,Pass
+STU0970,18,Male,Public,Graduate,High,5.42,89.8,5.1,14,1,1,0,1,5.8,100.0,A,Pass
+STU0971,17,Female,Private,High School,Middle,2.5,65.3,4.96,12,4,1,0,14,9.2,52.5,D,Pass
+STU0972,16,Male,Public,Graduate,Middle,4.58,100.0,5.77,14,2,1,6,0,5.6,100.0,A,Pass
+STU0973,15,Male,Public,High School,Low,1.6,57.1,6.99,14,5,1,1,10,6.1,65.7,C,Pass
+STU0974,16,Male,Private,Graduate,Middle,4.5,100.0,6.4,16,1,1,5,0,6.3,100.0,A,Pass
+STU0975,15,Female,Public,Graduate,Middle,4.51,78.5,7.49,12,3,1,4,6,4.0,100.0,A,Pass
+STU0976,17,Female,Private,Graduate,Middle,4.08,56.1,4.09,14,3,1,2,19,7.1,45.7,D,Pass
+STU0977,18,Female,Public,Graduate,Middle,2.01,91.0,5.16,15,1,1,4,9,5.9,83.7,B,Pass
+STU0978,18,Female,Public,High School,Low,3.87,78.0,6.29,16,3,1,0,7,8.0,86.0,B,Pass
+STU0979,17,Female,Private,No Education,High,1.73,82.4,9.92,14,1,0,7,1,8.1,100.0,A,Pass
+STU0980,18,Female,Public,Graduate,Middle,3.12,92.2,6.3,15,0,0,1,7,7.3,82.1,B,Pass
+STU0981,18,Female,Public,High School,High,5.04,84.7,8.45,20,3,0,1,5,7.3,100.0,A,Pass
+STU0982,15,Female,Public,High School,Middle,4.7,69.7,6.57,17,1,1,7,7,7.2,100.0,A,Pass
+STU0983,17,Female,Public,No Education,Middle,3.52,89.7,5.63,13,1,0,1,0,6.2,74.1,C,Pass
+STU0984,16,Male,Public,High School,Middle,2.04,70.6,6.06,10,3,1,1,19,6.3,45.9,D,Pass
+STU0985,15,Female,Private,No Education,Middle,4.47,88.2,6.2,16,0,1,5,7,8.6,95.7,A,Pass
+STU0986,17,Female,Private,Postgraduate,High,3.53,42.8,7.59,7,3,1,2,21,7.9,64.8,C,Pass
+STU0987,15,Female,Private,High School,Middle,0.5,72.7,8.97,10,1,1,3,4,7.2,80.2,B,Pass
+STU0988,16,Female,Private,Graduate,Low,4.67,68.9,7.15,15,0,1,0,10,7.7,82.6,B,Pass
+STU0989,16,Female,Private,No Education,Middle,3.46,99.7,8.64,10,4,0,2,0,6.9,95.7,A,Pass
+STU0990,17,Female,Private,Graduate,Middle,5.3,89.8,4.76,14,2,1,4,7,7.2,99.4,A,Pass
+STU0991,16,Female,Public,High School,Middle,1.86,73.7,5.75,15,3,1,3,15,7.7,48.8,D,Pass
+STU0992,15,Female,Private,Postgraduate,Low,0.5,73.3,5.2,12,5,1,3,1,4.5,58.1,D,Pass
+STU0993,16,Female,Private,Postgraduate,Middle,3.92,61.3,7.07,15,1,0,7,6,8.1,100.0,A,Pass
+STU0994,15,Female,Public,High School,Middle,3.94,100.0,5.85,16,0,1,1,3,8.0,96.2,A,Pass
+STU0995,15,Female,Public,Postgraduate,Middle,0.96,92.4,7.81,12,0,1,2,0,6.1,99.7,A,Pass
+STU0996,16,Male,Public,Postgraduate,Middle,2.03,76.5,4.82,16,4,1,7,11,8.5,83.4,B,Pass
+STU0997,17,Male,Public,Graduate,Middle,7.63,100.0,6.58,20,3,0,4,0,4.3,100.0,A,Pass
+STU0998,18,Female,Private,Graduate,Low,3.04,65.1,7.74,10,5,1,1,4,7.4,72.7,C,Pass
+STU0999,16,Female,Public,High School,Middle,4.6,66.3,3.0,20,0,1,1,1,7.0,69.6,C,Pass
+STU1000,15,Male,Public,Graduate,Low,2.52,72.7,10.0,14,4,1,6,11,6.6,100.0,A,Pass
+STU1001,15,Female,Private,No Education,Low,0.5,72.5,5.99,9,1,1,6,11,7.0,55.1,D,Pass
+STU1002,16,Male,Public,No Education,Middle,3.24,68.3,3.0,10,4,1,6,14,7.7,49.7,D,Pass
+STU1003,17,Male,Public,Postgraduate,High,3.1,81.9,6.78,15,3,1,5,7,4.8,96.5,A,Pass
+STU1004,17,Male,Public,High School,Middle,2.9,77.8,6.56,13,4,1,7,0,8.2,100.0,A,Pass
+STU1005,15,Male,Private,Graduate,Middle,3.33,59.5,6.35,19,0,1,0,15,6.5,74.3,C,Pass
+STU1006,15,Male,Private,Graduate,High,3.9,84.0,8.28,14,0,0,3,0,8.2,100.0,A,Pass
+STU1007,17,Female,Public,Postgraduate,High,3.27,87.3,7.85,12,2,1,4,0,7.8,100.0,A,Pass
+STU1008,18,Male,Private,Postgraduate,Low,1.6,71.9,7.04,15,4,1,3,0,6.5,100.0,A,Pass
+STU1009,16,Female,Public,High School,High,4.23,94.5,7.31,18,1,0,2,0,6.9,100.0,A,Pass
+STU1010,15,Female,Private,No Education,Middle,0.58,48.0,6.31,11,5,1,0,17,7.0,31.8,F,Fail
+STU1011,15,Male,Private,High School,Middle,0.5,73.0,9.7,13,5,1,1,4,8.9,87.5,B,Pass
+STU1012,17,Male,Private,High School,Low,4.61,60.8,3.84,16,3,1,0,4,5.6,60.6,C,Pass
+STU1013,16,Female,Public,No Education,Middle,4.26,60.6,6.75,16,2,1,1,12,6.5,79.9,B,Pass
+STU1014,17,Male,Private,High School,Low,3.41,65.3,6.62,18,4,0,7,5,5.1,90.9,A,Pass
+STU1015,16,Male,Private,Graduate,Low,1.41,54.6,7.96,14,1,1,6,19,7.1,71.7,C,Pass
+STU1016,16,Female,Public,Graduate,Middle,2.44,63.6,4.98,13,2,0,0,18,6.3,30.4,F,Fail
+STU1017,16,Female,Private,High School,High,3.11,70.6,3.36,18,0,1,1,8,6.4,59.7,D,Pass
+STU1018,15,Male,Public,Graduate,High,1.11,80.4,6.78,5,3,1,3,13,8.8,59.4,D,Pass
+STU1019,18,Female,Private,High School,Middle,2.39,66.9,7.01,19,4,1,6,17,6.0,89.5,B,Pass
+STU1020,17,Male,Public,No Education,High,4.48,54.2,9.18,11,5,0,6,14,6.8,86.8,B,Pass
+STU1021,18,Male,Private,Graduate,High,5.64,98.5,4.21,15,1,0,6,9,6.4,88.7,B,Pass
+STU1022,17,Male,Public,Graduate,Middle,2.87,60.6,8.58,14,0,1,3,9,6.5,95.8,A,Pass
+STU1023,16,Female,Public,Graduate,Low,4.63,77.5,10.0,15,2,1,3,0,10.0,100.0,A,Pass
+STU1024,15,Female,Public,No Education,Middle,0.63,73.1,5.82,14,3,0,3,0,4.9,53.2,D,Pass
+STU1025,18,Female,Public,Graduate,High,4.49,81.0,4.18,13,2,0,6,2,7.8,79.8,B,Pass
+STU1026,15,Female,Public,Graduate,Middle,2.29,87.8,5.77,14,5,0,0,6,9.9,70.3,C,Pass
+STU1027,17,Female,Public,Graduate,Middle,3.96,83.6,6.53,13,2,1,1,0,8.3,98.2,A,Pass
+STU1028,15,Male,Public,Graduate,Middle,3.13,61.0,7.51,15,1,1,3,8,7.1,98.5,A,Pass
+STU1029,15,Male,Public,Postgraduate,Middle,5.48,100.0,5.44,17,0,0,0,0,5.6,100.0,A,Pass
+STU1030,18,Male,Public,Graduate,Middle,2.19,74.0,9.3,13,4,1,1,5,8.6,100.0,A,Pass
+STU1031,16,Male,Private,Graduate,Low,4.44,75.6,4.49,14,1,0,6,14,8.1,61.6,C,Pass
+STU1032,15,Female,Public,Postgraduate,Middle,3.08,88.2,3.37,12,5,1,0,5,5.2,64.8,C,Pass
+STU1033,16,Male,Private,Graduate,High,3.26,78.0,8.49,15,3,1,6,4,6.6,100.0,A,Pass
+STU1034,17,Female,Private,High School,High,3.22,80.2,3.0,17,5,1,5,12,5.6,66.9,C,Pass
+STU1035,15,Male,Private,Graduate,Low,2.23,96.2,6.13,11,5,1,3,1,4.0,80.6,B,Pass
+STU1036,18,Female,Public,High School,High,3.48,70.8,10.0,12,2,1,2,9,5.5,100.0,A,Pass
+STU1037,17,Female,Private,High School,Middle,3.41,70.0,6.48,16,3,1,0,15,7.1,73.7,C,Pass
+STU1038,17,Male,Public,Graduate,Middle,3.86,77.8,4.48,15,1,1,3,5,7.7,83.5,B,Pass
+STU1039,18,Male,Public,Postgraduate,Middle,3.63,91.5,6.4,17,5,1,4,7,6.6,99.8,A,Pass
+STU1040,15,Male,Public,Postgraduate,High,4.7,56.0,6.41,13,1,0,1,17,8.6,75.1,B,Pass
+STU1041,15,Male,Private,High School,High,4.89,49.7,6.79,11,4,1,5,14,8.2,77.6,B,Pass
+STU1042,17,Female,Public,Graduate,Middle,1.92,61.5,7.69,11,2,1,3,5,6.8,82.9,B,Pass
+STU1043,15,Male,Public,High School,High,4.8,54.4,4.63,14,1,0,4,14,6.7,64.8,C,Pass
+STU1044,16,Male,Private,Postgraduate,Low,1.72,63.3,9.54,12,3,1,0,17,7.5,82.7,B,Pass
+STU1045,18,Female,Private,Postgraduate,Middle,4.38,85.2,6.94,14,5,1,0,9,7.0,92.4,A,Pass
+STU1046,16,Male,Public,Graduate,Middle,4.43,64.4,7.81,18,4,0,4,19,5.3,89.4,B,Pass
+STU1047,15,Male,Public,Graduate,Middle,0.63,45.0,5.37,10,3,1,5,14,6.6,46.8,D,Pass
+STU1048,17,Male,Private,Graduate,Low,3.64,76.5,8.82,15,2,1,4,11,7.8,100.0,A,Pass
+STU1049,18,Male,Public,Graduate,High,2.8,85.8,6.04,14,4,1,1,0,8.6,93.1,A,Pass
+STU1050,15,Male,Public,No Education,Low,2.36,46.2,7.0,14,4,1,0,17,8.2,47.9,D,Pass
+STU1051,15,Female,Public,Graduate,Low,5.53,93.4,4.82,17,4,1,4,8,7.4,99.4,A,Pass
+STU1052,17,Male,Private,Graduate,Middle,2.52,84.3,4.71,15,5,1,2,9,8.7,76.5,B,Pass
+STU1053,17,Male,Private,Graduate,Middle,2.29,85.7,7.74,11,0,0,2,5,7.5,97.2,A,Pass
+STU1054,16,Male,Private,High School,High,3.61,93.6,5.7,19,4,1,4,1,6.9,98.7,A,Pass
+STU1055,18,Male,Private,Postgraduate,Middle,4.53,100.0,4.96,15,3,0,1,0,8.8,91.5,A,Pass
+STU1056,18,Male,Public,High School,Low,3.29,69.0,5.34,10,3,0,0,8,7.9,52.9,D,Pass
+STU1057,17,Female,Public,Graduate,High,5.25,81.9,7.76,17,2,1,2,0,8.6,100.0,A,Pass
+STU1058,16,Male,Public,Graduate,Middle,4.3,71.1,5.37,13,1,0,4,7,5.6,78.2,B,Pass
+STU1059,18,Female,Public,Graduate,Low,0.5,66.0,6.29,13,1,1,6,1,6.0,72.7,C,Pass
+STU1060,17,Female,Public,Graduate,Middle,2.71,95.6,6.53,20,0,0,4,0,6.0,100.0,A,Pass
+STU1061,15,Male,Private,High School,Middle,2.66,52.3,3.05,11,5,0,3,19,7.2,20.5,F,Fail
+STU1062,18,Male,Public,High School,Middle,4.22,64.2,3.85,16,5,0,4,14,9.2,66.9,C,Pass
+STU1063,16,Male,Private,Graduate,Middle,0.5,86.7,7.11,6,4,0,1,3,5.6,61.9,C,Pass
+STU1064,16,Male,Public,Graduate,High,7.32,100.0,5.17,20,0,1,2,0,8.1,100.0,A,Pass
+STU1065,16,Female,Public,High School,High,4.3,71.9,8.4,13,2,1,3,9,5.6,94.2,A,Pass
+STU1066,15,Male,Public,Graduate,Middle,3.72,88.5,8.24,13,2,1,2,6,9.5,100.0,A,Pass
+STU1067,18,Male,Public,Graduate,Low,5.27,85.4,7.79,13,1,1,2,6,5.1,100.0,A,Pass
+STU1068,18,Male,Private,Graduate,High,7.02,100.0,9.78,20,2,0,1,0,7.9,100.0,A,Pass
+STU1069,15,Male,Public,Graduate,Middle,4.81,80.0,6.35,19,4,1,4,0,8.1,100.0,A,Pass
+STU1070,18,Male,Public,High School,Middle,4.92,94.7,7.67,16,3,0,1,0,7.7,100.0,A,Pass
+STU1071,15,Male,Public,No Education,Middle,3.7,100.0,5.45,12,2,1,4,0,5.9,95.0,A,Pass
+STU1072,15,Female,Public,Graduate,High,3.29,83.3,10.0,19,0,1,3,10,5.7,100.0,A,Pass
+STU1073,15,Female,Public,Graduate,Middle,2.79,73.6,10.0,11,4,1,1,9,8.5,100.0,A,Pass
+STU1074,16,Male,Private,Graduate,Low,2.26,82.1,6.52,7,2,1,1,8,8.3,69.6,C,Pass
+STU1075,18,Male,Private,Graduate,Middle,2.47,66.4,7.2,15,5,1,6,6,8.2,99.7,A,Pass
+STU1076,15,Male,Public,Graduate,High,1.47,93.9,8.95,9,2,1,5,1,8.4,100.0,A,Pass
+STU1077,18,Female,Private,Postgraduate,Low,3.39,77.4,6.24,17,5,1,0,7,5.2,89.0,B,Pass
+STU1078,16,Male,Public,Graduate,High,0.97,63.3,5.32,10,4,1,1,7,5.1,50.8,D,Pass
+STU1079,15,Female,Public,Graduate,Middle,3.79,63.3,8.07,17,2,1,5,6,6.2,100.0,A,Pass
+STU1080,17,Male,Public,High School,Middle,3.45,91.3,6.64,19,5,1,7,1,6.4,100.0,A,Pass
+STU1081,16,Male,Public,High School,Low,3.72,88.7,6.83,11,3,1,0,7,6.3,89.0,B,Pass
+STU1082,17,Male,Public,Graduate,Low,2.72,65.2,5.0,12,1,0,6,6,7.3,59.3,D,Pass
+STU1083,18,Male,Public,High School,High,8.12,97.5,3.41,20,4,1,4,0,8.3,100.0,A,Pass
+STU1084,18,Female,Public,Postgraduate,Low,5.54,58.5,6.93,20,5,1,7,19,6.6,100.0,A,Pass
+STU1085,16,Female,Public,Graduate,Middle,1.63,72.2,8.13,10,0,1,4,6,6.0,80.4,B,Pass
+STU1086,18,Male,Public,Graduate,Middle,3.85,82.8,6.09,13,2,0,4,5,8.0,80.9,B,Pass
+STU1087,17,Male,Private,High School,Low,2.59,97.3,9.09,15,5,1,5,0,6.7,100.0,A,Pass
+STU1088,15,Female,Public,No Education,Low,1.98,58.9,5.23,11,5,1,5,11,7.1,62.4,C,Pass
+STU1089,15,Female,Public,No Education,Middle,1.49,49.8,4.6,13,5,1,0,23,6.6,26.2,F,Fail
+STU1090,15,Female,Public,High School,High,4.15,63.5,6.38,11,1,1,4,12,7.4,74.2,C,Pass
+STU1091,16,Female,Public,No Education,Middle,2.48,51.9,6.35,20,0,1,2,7,5.8,71.1,C,Pass
+STU1092,18,Male,Public,Graduate,Middle,4.95,99.4,7.89,12,0,0,7,8,7.9,100.0,A,Pass
+STU1093,17,Female,Public,Postgraduate,Middle,4.99,100.0,5.11,15,3,1,1,1,7.0,100.0,A,Pass
+STU1094,18,Male,Public,Postgraduate,Middle,5.56,86.0,8.96,17,1,1,5,2,6.1,100.0,A,Pass
+STU1095,18,Female,Public,Graduate,Middle,2.22,89.5,10.0,19,5,1,5,10,7.6,100.0,A,Pass
+STU1096,18,Female,Public,High School,High,4.21,79.1,6.43,11,4,0,5,2,6.1,100.0,A,Pass
+STU1097,15,Female,Public,Postgraduate,Middle,4.45,76.4,8.75,20,1,1,0,16,6.1,100.0,A,Pass
+STU1098,17,Female,Public,Postgraduate,Middle,2.79,67.9,4.6,16,1,1,4,10,5.6,71.7,C,Pass
+STU1099,17,Female,Public,High School,Low,2.34,66.9,8.44,14,0,1,2,15,5.0,79.2,B,Pass
+STU1100,18,Male,Public,Graduate,High,5.91,59.0,8.39,14,3,1,1,28,7.6,72.7,C,Pass
+STU1101,15,Male,Private,High School,Low,3.84,80.0,8.05,17,3,0,1,7,8.4,100.0,A,Pass
+STU1102,15,Female,Public,Graduate,Low,4.45,77.3,6.47,13,1,1,4,6,6.5,97.3,A,Pass
+STU1103,17,Female,Public,Postgraduate,Middle,2.27,82.5,3.0,17,1,1,2,0,6.0,64.7,C,Pass
+STU1104,15,Male,Public,No Education,Middle,1.67,70.9,5.34,9,2,1,0,8,4.8,33.2,F,Fail
+STU1105,15,Female,Private,Postgraduate,Middle,2.65,70.0,5.37,13,5,1,5,4,4.4,78.3,B,Pass
+STU1106,15,Female,Public,Graduate,Middle,3.31,61.4,4.74,13,0,1,5,11,7.9,70.2,C,Pass
+STU1107,16,Male,Public,Postgraduate,Middle,1.9,71.3,6.72,10,5,1,7,23,4.6,66.2,C,Pass
+STU1108,18,Female,Public,Graduate,Low,3.49,86.0,5.75,17,4,1,7,5,5.6,100.0,A,Pass
+STU1109,17,Female,Public,Graduate,High,0.97,50.3,5.02,13,4,1,7,12,7.3,59.3,D,Pass
+STU1110,17,Male,Public,No Education,Middle,1.82,71.3,4.59,16,3,1,6,8,7.1,59.2,D,Pass
+STU1111,16,Male,Public,High School,Middle,4.51,81.5,5.21,10,0,0,4,3,7.4,79.7,B,Pass
+STU1112,18,Male,Private,No Education,Middle,4.41,66.9,8.52,19,5,1,1,15,7.0,88.3,B,Pass
+STU1113,17,Female,Public,Postgraduate,Low,2.91,64.4,5.31,20,3,0,5,10,6.6,79.9,B,Pass
+STU1114,15,Male,Private,Graduate,Middle,1.97,73.9,5.57,11,4,1,6,16,5.6,71.4,C,Pass
+STU1115,17,Male,Private,Postgraduate,Middle,1.96,53.4,5.68,18,1,1,1,12,6.2,68.3,C,Pass
+STU1116,15,Male,Public,Postgraduate,Middle,2.94,78.6,7.11,13,0,0,1,5,6.7,82.3,B,Pass
+STU1117,16,Male,Public,No Education,Middle,4.47,64.5,7.32,12,0,1,4,6,4.7,93.3,A,Pass
+STU1118,15,Male,Public,High School,High,4.89,95.1,3.0,15,5,1,3,0,6.1,83.4,B,Pass
+STU1119,17,Male,Public,No Education,Middle,2.76,97.8,8.34,17,2,1,7,0,6.6,100.0,A,Pass
+STU1120,17,Female,Public,High School,High,1.77,56.9,9.09,10,5,1,6,2,6.2,88.6,B,Pass
+STU1121,17,Female,Private,High School,Middle,3.9,84.2,4.61,13,1,1,3,8,6.6,77.9,B,Pass
+STU1122,16,Male,Private,Graduate,Low,2.26,60.4,4.75,15,1,1,3,3,7.8,73.5,C,Pass
+STU1123,16,Male,Public,High School,Low,2.72,88.3,5.69,14,3,0,6,6,7.9,93.0,A,Pass
+STU1124,18,Male,Public,High School,Middle,5.49,62.0,5.14,19,0,0,2,9,8.8,86.8,B,Pass
+STU1125,17,Female,Private,High School,Low,4.74,85.9,6.9,17,3,0,7,9,5.2,100.0,A,Pass
+STU1126,15,Female,Private,High School,Low,3.74,62.6,3.0,16,1,1,4,3,6.5,69.3,C,Pass
+STU1127,16,Female,Private,Postgraduate,High,1.59,66.2,4.49,11,2,1,6,13,8.5,66.3,C,Pass
+STU1128,17,Female,Public,Graduate,High,3.82,60.5,9.27,16,0,1,1,14,4.9,100.0,A,Pass
+STU1129,17,Female,Public,Postgraduate,Middle,5.09,92.1,4.83,14,1,1,6,4,5.6,100.0,A,Pass
+STU1130,16,Female,Public,High School,Low,2.94,60.8,8.74,18,2,0,5,17,6.3,93.4,A,Pass
+STU1131,18,Female,Public,High School,Low,5.53,89.4,7.14,15,5,1,6,4,9.5,100.0,A,Pass
+STU1132,16,Female,Public,Graduate,Low,5.44,75.7,3.24,20,4,0,2,0,5.8,72.1,C,Pass
+STU1133,16,Female,Public,High School,Middle,6.0,80.8,7.64,17,1,1,7,8,8.3,100.0,A,Pass
+STU1134,15,Male,Private,High School,High,3.96,78.6,6.29,16,4,1,7,8,7.0,100.0,A,Pass
+STU1135,15,Male,Public,High School,Middle,4.38,66.2,5.68,14,3,0,3,9,5.6,69.6,C,Pass
+STU1136,18,Male,Public,High School,Low,5.62,84.5,6.94,14,4,1,0,0,10.0,100.0,A,Pass
+STU1137,17,Male,Public,High School,Middle,4.17,100.0,7.35,10,1,0,7,0,7.2,100.0,A,Pass
+STU1138,16,Female,Public,High School,Middle,2.75,61.1,7.77,10,4,1,7,19,7.5,78.7,B,Pass
+STU1139,18,Female,Public,Graduate,Middle,2.83,90.6,8.62,13,0,0,2,0,7.6,100.0,A,Pass
+STU1140,15,Male,Public,No Education,Middle,3.86,98.5,7.23,16,1,1,2,0,7.5,100.0,A,Pass
+STU1141,16,Female,Private,High School,Middle,1.56,57.0,4.02,15,2,0,4,6,9.6,48.3,D,Pass
+STU1142,17,Male,Public,Graduate,Low,3.29,52.5,5.65,13,4,1,5,14,9.1,71.5,C,Pass
+STU1143,15,Female,Public,High School,Low,5.14,84.5,10.0,14,0,1,2,13,5.9,100.0,A,Pass
+STU1144,15,Male,Public,High School,High,0.5,57.8,7.8,7,3,1,6,24,9.4,56.7,D,Pass
+STU1145,15,Female,Private,Postgraduate,Low,5.8,100.0,10.0,19,3,1,5,3,6.2,100.0,A,Pass
+STU1146,18,Female,Private,High School,Low,5.18,80.6,9.01,20,4,1,4,1,7.4,100.0,A,Pass
+STU1147,17,Male,Private,No Education,Low,2.81,60.9,6.94,17,3,1,6,7,5.3,85.9,B,Pass
+STU1148,16,Female,Public,Graduate,Low,4.32,60.2,7.04,18,2,0,7,16,8.2,88.3,B,Pass
+STU1149,18,Male,Public,High School,Middle,3.5,91.4,6.43,16,1,1,0,9,6.6,92.0,A,Pass
+STU1150,18,Male,Public,Graduate,High,5.34,72.0,3.37,20,0,1,1,5,5.6,80.2,B,Pass
+STU1151,18,Male,Public,Graduate,Middle,4.97,80.1,6.53,17,5,1,1,13,8.4,95.7,A,Pass
+STU1152,15,Male,Private,High School,Middle,1.4,83.0,8.68,14,4,1,3,4,8.7,99.2,A,Pass
+STU1153,17,Female,Public,Graduate,Middle,4.38,70.4,5.42,15,3,0,7,12,8.8,86.0,B,Pass
+STU1154,18,Female,Private,Graduate,Middle,3.19,73.4,7.24,10,1,1,3,14,5.2,81.8,B,Pass
+STU1155,16,Female,Private,High School,High,3.62,75.1,8.03,13,5,1,0,0,8.9,100.0,A,Pass
+STU1156,17,Male,Public,Graduate,High,2.41,82.0,4.86,13,2,1,1,8,6.6,70.9,C,Pass
+STU1157,16,Female,Private,High School,Low,6.12,91.7,5.69,18,3,1,3,10,9.5,100.0,A,Pass
+STU1158,17,Male,Public,Graduate,Middle,5.06,76.4,4.67,20,3,0,7,4,7.7,100.0,A,Pass
+STU1159,16,Female,Public,No Education,Middle,2.39,72.6,5.02,13,0,1,5,3,7.3,81.6,B,Pass
+STU1160,15,Female,Public,Graduate,High,1.5,63.4,4.18,16,2,0,2,13,7.0,53.9,D,Pass
+STU1161,18,Female,Public,High School,Middle,2.92,51.1,4.88,13,2,1,4,15,7.0,57.9,D,Pass
+STU1162,16,Male,Public,Graduate,High,4.15,80.8,9.06,14,4,1,6,4,6.2,100.0,A,Pass
+STU1163,17,Female,Public,No Education,Middle,3.86,100.0,4.85,11,5,1,3,0,5.7,84.6,B,Pass
+STU1164,18,Female,Public,High School,Low,5.38,67.4,6.73,15,0,1,0,1,6.6,100.0,A,Pass
+STU1165,18,Male,Public,Graduate,Middle,4.68,67.0,5.59,18,4,0,6,12,8.4,97.6,A,Pass
+STU1166,17,Female,Public,Graduate,High,4.95,66.3,8.62,16,0,1,1,18,5.3,100.0,A,Pass
+STU1167,16,Male,Public,Graduate,High,3.99,87.3,8.86,18,2,1,7,0,8.6,100.0,A,Pass
+STU1168,15,Female,Public,Graduate,Low,1.42,75.5,8.06,13,0,1,0,3,7.2,95.0,A,Pass
+STU1169,15,Male,Public,Graduate,Middle,3.21,71.7,7.05,13,0,0,4,9,7.9,84.3,B,Pass
+STU1170,16,Male,Private,Postgraduate,Middle,5.09,66.0,6.08,20,0,1,4,24,8.0,95.0,A,Pass
+STU1171,18,Female,Private,High School,Low,3.42,76.2,4.35,14,1,1,0,13,8.1,61.0,C,Pass
+STU1172,18,Male,Private,Graduate,Middle,4.25,53.8,10.0,19,1,1,3,13,7.0,100.0,A,Pass
+STU1173,18,Male,Private,Graduate,Low,3.02,75.7,5.13,13,5,1,3,7,7.1,75.9,B,Pass
+STU1174,18,Male,Public,Postgraduate,High,1.96,83.4,7.69,15,5,1,1,11,8.1,93.7,A,Pass
+STU1175,16,Male,Private,Postgraduate,Middle,3.31,55.7,8.41,17,2,1,5,9,5.8,100.0,A,Pass
+STU1176,18,Male,Public,High School,High,3.96,53.4,5.5,16,0,1,1,17,5.6,64.9,C,Pass
+STU1177,17,Male,Public,High School,Low,2.52,95.7,8.37,6,2,0,2,0,6.4,91.5,A,Pass
+STU1178,18,Female,Private,Graduate,Middle,3.15,64.8,7.88,14,1,1,5,15,7.3,91.0,A,Pass
+STU1179,15,Male,Public,Graduate,Low,2.09,87.8,9.61,17,0,1,7,2,9.3,100.0,A,Pass
+STU1180,18,Male,Private,Graduate,Low,5.18,77.7,5.66,18,4,1,6,8,7.1,95.3,A,Pass
+STU1181,16,Female,Private,Graduate,Low,3.06,71.2,4.19,15,1,1,7,7,9.4,73.9,C,Pass
+STU1182,15,Female,Private,Graduate,Low,5.68,88.1,5.59,12,1,1,2,7,7.6,92.4,A,Pass
+STU1183,16,Female,Private,High School,Middle,5.79,68.6,6.88,15,1,0,1,9,6.5,86.3,B,Pass
+STU1184,16,Female,Public,Postgraduate,Low,3.38,76.6,6.6,16,0,1,5,18,8.4,90.8,A,Pass
+STU1185,15,Female,Public,High School,Middle,1.99,64.7,5.79,14,5,1,5,18,6.7,67.0,C,Pass
+STU1186,16,Female,Public,High School,Middle,0.5,46.2,3.06,15,3,1,2,10,7.3,37.1,F,Fail
+STU1187,16,Female,Public,Graduate,High,1.29,73.4,7.35,11,4,1,7,9,5.4,86.4,B,Pass
+STU1188,18,Male,Public,Graduate,High,1.44,64.9,10.0,13,4,1,0,14,5.2,90.1,A,Pass
+STU1189,17,Male,Private,High School,Middle,5.57,78.8,7.34,17,2,0,3,4,7.7,100.0,A,Pass
+STU1190,16,Female,Private,High School,Middle,3.67,57.4,7.6,12,0,1,5,19,8.3,76.1,B,Pass
+STU1191,16,Male,Public,Postgraduate,Low,4.08,100.0,7.53,8,5,1,6,5,9.3,100.0,A,Pass
+STU1192,16,Male,Public,High School,High,0.5,79.2,7.21,12,1,1,6,6,6.0,88.7,B,Pass
+STU1193,18,Male,Public,Graduate,Low,1.7,84.1,8.18,13,3,1,5,10,8.8,100.0,A,Pass
+STU1194,17,Female,Public,Graduate,Low,4.83,74.4,7.21,14,0,0,2,0,8.6,100.0,A,Pass
+STU1195,15,Female,Private,Graduate,Low,3.93,50.4,5.94,10,0,0,5,22,6.4,38.7,F,Fail
+STU1196,18,Male,Public,Graduate,Middle,3.28,99.3,5.07,16,5,1,7,5,8.7,97.0,A,Pass
+STU1197,18,Female,Public,High School,Low,4.35,76.6,6.05,15,3,1,2,2,8.1,89.2,B,Pass
+STU1198,17,Male,Public,Graduate,Middle,5.95,71.1,7.07,19,1,1,0,10,8.4,98.7,A,Pass
+STU1199,17,Male,Public,High School,Low,3.17,80.3,5.93,20,0,1,6,0,9.6,100.0,A,Pass
+STU1200,18,Male,Public,Graduate,Middle,3.6,92.8,7.07,8,4,1,5,0,8.3,100.0,A,Pass
