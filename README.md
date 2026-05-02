@@ -14,7 +14,7 @@
 ## 📸 Screenshots
 | Dashboard | EDA | Model Comparison |
 |---|---|---|
-| ![dashboard](images/dashboard.png) | ![eda](outputs/grade_distribution.png) | ![model](outputs/model_comparison.png) |
+| ![dashboard](images/predictout1.png) | ![eda](outputs/grade_distribution.png) | ![model](outputs/model_comparison.png) |
 
 ## 🧠 Problem Statement
 Educational institutions need early warning systems to identify at-risk students before they fail. This project builds a complete ML pipeline that:
