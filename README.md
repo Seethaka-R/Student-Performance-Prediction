@@ -120,16 +120,6 @@ score, grade, risk = predict_student(student)
 4. **Sleep quality** (7–9 hrs) improves scores by ~5 points on average
 5. Random Forest outperforms Linear Regression by ~10 RMSE points
 
-## 📝 Interview Q&A
-
-**Q: Why Random Forest over Linear Regression?**
-> RF captures non-linear relationships between features (e.g., sleep hours follow a curve — both too little and too much reduces performance). LR assumes linearity.
-
-**Q: How did you handle data imbalance?**
-> The grade distribution has fewer A/F students. We used stratified splitting and evaluated F1-macro in addition to accuracy.
-
-**Q: What would you do with real school data?**
-> Add time-series features (weekly performance trends), run SHAP for explainability, and build a teacher-facing alert system.
 
 ## 🤝 Contributing
 PRs welcome! See [CONTRIBUTING.md](CONTRIBUTING.md).
